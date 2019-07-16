@@ -1,0 +1,39 @@
+[
+
+  {
+    "Minutes":1,
+    "Max": 1000,
+    "Min": 12,
+    "Multiplier": 7
+  },
+  {
+    "Minutes":1,
+    "Max":12,
+    "Min": 8,
+    "Multiplier": 5.5
+  },
+  {
+    "Minutes":1,
+    "Max":8,
+    "Min": 6,
+    "Multiplier": 3.5
+  },
+
+
+
+
+  {
+    "Minutes":2,
+    "Max": 1000,
+    "Min": 12,
+    "Multiplier": 2.5
+  },
+  {
+    "Minutes":2,
+    "Max": 12,
+    "Min": 8,
+    "Multiplier": 1.5
+  }
+
+
+]

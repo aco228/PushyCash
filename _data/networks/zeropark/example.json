@@ -1,0 +1,56 @@
+{
+    "page": 0,
+    "total": 99,
+    "limit": 100,
+    "summary": {
+        "spent": 1.2946,
+        "payout": 0.248,
+        "averageBid": 0.0002,
+        "redirects": 8497,
+        "conversions": 4,
+        "clicks": 0,
+        "ecpa": 0.3237
+    },
+    "elements": [
+        {
+            "details": {
+                "id": "a67c6dc0-6e33-11e8-9ab3-0e9c191f3024",
+                "name": "Global All non-adult agressive",
+                "type": "GEO",
+                "trafficSourceType": [
+                    "DOMAIN"
+                ],
+                "url": "https://win.ningoffer.club/?utm_medium=e13946104f932e37fbea6e07ba274108b31771c8&utm_campaign={long_campaign_id}&1={keyword}&2={match}&3={target}&cid={cid}",
+                "totalBudget": {
+                    "type": "UNLIMITED"
+                },
+                "dailyBudget": {
+                    "type": "LIMITED",
+                    "amount": 5
+                },
+                "bid": 0.0001,
+                "state": {
+                    "state": "ACTIVE",
+                    "actions": [
+                        "EDIT",
+                        "PAUSE",
+                        "CHANGE_BID",
+                        "DUPLICATE",
+                        "DELETE"
+                    ]
+                },
+                "optimisation": "RBO"
+            },
+            "visibility": {
+                "finalVisibility": "VERY_LOW"
+            },
+            "stats": {
+                "spent": 0.8128,
+                "payout": 0.248,
+                "averageBid": 0.0001,
+                "redirects": 8120,
+                "conversions": 4,
+                "ecpa": 0.2032
+            },
+            "trackingConversions": true
+        }

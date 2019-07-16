@@ -1,0 +1,2008 @@
+{  
+   "campaigns":[  
+      {  
+         "id":"476594",
+         "status":"paused",
+         "aux_status":null,
+         "group_id":null,
+         "name":"DE T-Mobile popunder",
+         "budget":"-0.004578279796987772",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=920&key=6use22r2mfzpuumfv12631f3&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2015-08-18 15:30:25"
+      },
+      {  
+         "id":"476599",
+         "status":"paused",
+         "aux_status":null,
+         "group_id":null,
+         "name":"DE Vodafone popunder",
+         "budget":"3.1028099060058594",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=920&key=6use22r2mfzpuumfv12631f3&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2015-08-18 15:35:06"
+      },
+      {  
+         "id":"476611",
+         "status":"paused",
+         "aux_status":null,
+         "group_id":null,
+         "name":"DE E-Plus popunder",
+         "budget":"0.005270959809422493",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=920&key=6use22r2mfzpuumfv12631f3&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2015-08-18 15:38:28"
+      },
+      {  
+         "id":"476616",
+         "status":"paused",
+         "aux_status":null,
+         "group_id":null,
+         "name":"DE O2 popunder",
+         "budget":"4.991779804229736",
+         "url":[  
+            "http:\/\/clicks.bananaclicks.com\/?aff_id=183&offer_id=964"
+         ],
+         "created":"2015-08-18 15:39:24"
+      },
+      {  
+         "id":"488135",
+         "status":"paused",
+         "aux_status":null,
+         "group_id":null,
+         "name":"ES Movistar popunder",
+         "budget":"0",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=975&key=2i064p172p6hg44n3f00gozw&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2015-08-27 15:26:07"
+      },
+      {  
+         "id":"488136",
+         "status":"out_of_money",
+         "aux_status":"approved",
+         "group_id":null,
+         "name":"ES Vodafone popunder",
+         "budget":"0.001938589964993298",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=975&key=2i064p172p6hg44n3f00gozw&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2015-08-27 15:29:17"
+      },
+      {  
+         "id":"488143",
+         "status":"paused",
+         "aux_status":null,
+         "group_id":null,
+         "name":"BE Proximus popunder",
+         "budget":"0.0005636219866573811",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=976&key=9je4rzd820fq87pm983cel2m&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2015-08-27 15:31:34"
+      },
+      {  
+         "id":"488145",
+         "status":"paused",
+         "aux_status":null,
+         "group_id":null,
+         "name":"BE Mobistar popunder",
+         "budget":"0.0021400500554591417",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=976&key=9je4rzd820fq87pm983cel2m&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2015-08-27 15:32:59"
+      },
+      {  
+         "id":"497914",
+         "status":"paused",
+         "aux_status":null,
+         "group_id":"31443",
+         "name":"PL T-Mobile popunder",
+         "budget":"0.006900790147483349",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=787&key=1e1c0s252y5g2w3qw63jiu9p&size=E10&ref={domain}"
+         ],
+         "created":"2015-09-04 13:00:55"
+      },
+      {  
+         "id":"497919",
+         "status":"paused",
+         "aux_status":null,
+         "group_id":"31443",
+         "name":"PL Plus popunder",
+         "budget":"0",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=1084&key=6hqqnc0kodvoo4tq16m2glg9&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2015-09-04 13:03:46"
+      },
+      {  
+         "id":"502710",
+         "status":"paused",
+         "aux_status":null,
+         "group_id":null,
+         "name":"AT Mobilkom adult ",
+         "budget":"4.981302261352539",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=1062&key=7hqcll4kag277472e87k115z&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2015-09-08 12:14:35"
+      },
+      {  
+         "id":"502731",
+         "status":"paused",
+         "aux_status":null,
+         "group_id":null,
+         "name":"AT H3G popunder",
+         "budget":"-0.021332699805498123",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=1062&key=7hqcll4kag277472e87k115z&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2015-09-08 12:16:50"
+      },
+      {  
+         "id":"502739",
+         "status":"paused",
+         "aux_status":null,
+         "group_id":null,
+         "name":"AT T-Mobile popunder",
+         "budget":"0",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=1062&key=7hqcll4kag277472e87k115z&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2015-09-08 12:18:48"
+      },
+      {  
+         "id":"523700",
+         "status":"paused",
+         "aux_status":null,
+         "group_id":null,
+         "name":"PL T-Mobile popunder New",
+         "budget":"0.009181980043649673",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=1084&key=6hqqnc0kodvoo4tq16m2glg9&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2015-09-25 00:01:59"
+      },
+      {  
+         "id":"535016",
+         "status":"out_of_money",
+         "aux_status":"approved",
+         "group_id":null,
+         "name":"AU Optus popunder iOS 10.2 and bellow",
+         "budget":"0.00997972022742033",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=1088&key=s4z3935qdct15v3hj5pp11sm&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2015-10-05 10:44:54"
+      },
+      {  
+         "id":"535026",
+         "status":"paused",
+         "aux_status":null,
+         "group_id":null,
+         "name":"AU Telstra popunder",
+         "budget":"0",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=1088&key=s4z3935qdct15v3hj5pp11sm&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2015-10-05 10:49:20"
+      },
+      {  
+         "id":"535073",
+         "status":"paused",
+         "aux_status":null,
+         "group_id":null,
+         "name":"AU Vodafone popunder",
+         "budget":"0",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=1088&key=s4z3935qdct15v3hj5pp11sm&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2015-10-05 12:13:19"
+      },
+      {  
+         "id":"539345",
+         "status":"paused",
+         "aux_status":null,
+         "group_id":null,
+         "name":"FI Sonera popunder",
+         "budget":"0.0024690600112080574",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=1118&key=6jj5o4lg1of6tzl43h698o5l&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2015-10-08 14:40:23"
+      },
+      {  
+         "id":"539355",
+         "status":"paused",
+         "aux_status":null,
+         "group_id":null,
+         "name":"FI Elisa popunder",
+         "budget":"0.006384850014001131",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=1118&key=6jj5o4lg1of6tzl43h698o5l&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2015-10-08 14:42:55"
+      },
+      {  
+         "id":"543955",
+         "status":"out_of_money",
+         "aux_status":"approved",
+         "group_id":null,
+         "name":"PL T-Mobile pop Non-adult",
+         "budget":"0.0008745189988985658",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=1132&key=uopr5pyr95e91s981u7yu73a&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2015-10-12 14:40:23"
+      },
+      {  
+         "id":"543979",
+         "status":"paused",
+         "aux_status":null,
+         "group_id":null,
+         "name":"BE Proximus pop Non-adult",
+         "budget":"0.004940030165016651",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=1133&key=oa5qoq15j7tufgj716991wmq&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2015-10-12 14:50:51"
+      },
+      {  
+         "id":"545081",
+         "status":"paused",
+         "aux_status":null,
+         "group_id":null,
+         "name":"DE  E-Plus Non-adult",
+         "budget":"0.0025196101050823927",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=1138&key=u4v091zk98r3438hhs6qi79p&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2015-10-13 10:23:50"
+      },
+      {  
+         "id":"545095",
+         "status":"paused",
+         "aux_status":null,
+         "group_id":null,
+         "name":"AT H3G pop Non-adult",
+         "budget":"0.0028696099761873484",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=1139&key=1s1e81tr45y8969071e0g031&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2015-10-13 10:28:01"
+      },
+      {  
+         "id":"546775",
+         "status":"paused",
+         "aux_status":null,
+         "group_id":null,
+         "name":"FI DNA popunder",
+         "budget":"0.007939820177853107",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=1118&key=6jj5o4lg1of6tzl43h698o5l&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2015-10-14 15:31:47"
+      },
+      {  
+         "id":"567424",
+         "status":"paused",
+         "aux_status":null,
+         "group_id":"31443",
+         "name":"PL Play popunder",
+         "budget":"0.0008182529709301889",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=1084&key=6hqqnc0kodvoo4tq16m2glg9&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2015-10-29 13:02:37"
+      },
+      {  
+         "id":"567433",
+         "status":"paused",
+         "aux_status":null,
+         "group_id":"31443",
+         "name":"PL Orange popunder",
+         "budget":"0.0041055697947740555",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=1084&key=6hqqnc0kodvoo4tq16m2glg9&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2015-10-29 13:05:31"
+      },
+      {  
+         "id":"567438",
+         "status":"paused",
+         "aux_status":null,
+         "group_id":null,
+         "name":"PL Play pop Non-adult",
+         "budget":"-0.019176499918103218",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=1132&key=uopr5pyr95e91s981u7yu73a&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2015-10-29 13:06:52"
+      },
+      {  
+         "id":"567440",
+         "status":"paused",
+         "aux_status":null,
+         "group_id":null,
+         "name":"PL Orange pop Non-ault",
+         "budget":"-0.09418459981679916",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=1132&key=uopr5pyr95e91s981u7yu73a&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2015-10-29 13:12:42"
+      },
+      {  
+         "id":"632832",
+         "status":"paused",
+         "aux_status":null,
+         "group_id":null,
+         "name":"FR Orange popunder",
+         "budget":"4.469470024108887",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=1191&key=h578zwe5lqe13gcq11p0e2tq&size=E&ID=ID&ref=R"
+         ],
+         "created":"2015-12-09 15:52:34"
+      },
+      {  
+         "id":"632844",
+         "status":"paused",
+         "aux_status":null,
+         "group_id":null,
+         "name":"FR SFR popunder",
+         "budget":"3.9210400581359863",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=1191&key=h578zwe5lqe13gcq11p0e2tq&size=E&ID=ID&ref=R"
+         ],
+         "created":"2015-12-09 15:54:34"
+      },
+      {  
+         "id":"632858",
+         "status":"out_of_money",
+         "aux_status":"paused",
+         "group_id":null,
+         "name":"FR Bouygues",
+         "budget":"-0.05116340145468712",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=1191&key=h578zwe5lqe13gcq11p0e2tq&size=E&ID=ID&ref=R"
+         ],
+         "created":"2015-12-09 15:57:00"
+      },
+      {  
+         "id":"658180",
+         "status":"paused",
+         "aux_status":null,
+         "group_id":null,
+         "name":"RS MTS",
+         "budget":"0.0066299401223659515",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=1247&key=vzdhrf31saj3obgjg06r7gdn&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2015-12-24 11:53:13"
+      },
+      {  
+         "id":"684250",
+         "status":"out_of_money",
+         "aux_status":"paused",
+         "group_id":null,
+         "name":"RU Beeline popunder",
+         "budget":"0.002957340097054839",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=1275&key=e30qi6iyzse9kdd5udhj35n1&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2016-01-14 15:30:17"
+      },
+      {  
+         "id":"684256",
+         "status":"out_of_money",
+         "aux_status":"paused",
+         "group_id":null,
+         "name":"RU MTS",
+         "budget":"0.00220012990757823",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=1275&key=e30qi6iyzse9kdd5udhj35n1&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2016-01-14 15:32:06"
+      },
+      {  
+         "id":"691063",
+         "status":"out_of_money",
+         "aux_status":"paused",
+         "group_id":null,
+         "name":"TH DTAC popunder",
+         "budget":"-0.017101500183343887",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=1290&key=53yv1v1i41604b0y2qtgj9ye&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2016-01-19 15:09:08"
+      },
+      {  
+         "id":"691065",
+         "status":"paused",
+         "aux_status":null,
+         "group_id":null,
+         "name":"TH AIS popunder",
+         "budget":"-0.4329819977283478",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=1290&key=53yv1v1i41604b0y2qtgj9ye&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2016-01-19 15:10:49"
+      },
+      {  
+         "id":"692743",
+         "status":"paused",
+         "aux_status":null,
+         "group_id":null,
+         "name":"TH DTAC pop non-adult",
+         "budget":"0",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=1305&key=ogt6m8ag9vy9m7w86hzkvvf7&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2016-01-20 13:57:26"
+      },
+      {  
+         "id":"692748",
+         "status":"paused",
+         "aux_status":null,
+         "group_id":null,
+         "name":"TH AIS pop non-adult",
+         "budget":"-0.15865999460220337",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=1305&key=ogt6m8ag9vy9m7w86hzkvvf7&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2016-01-20 14:01:10"
+      },
+      {  
+         "id":"692760",
+         "status":"paused",
+         "aux_status":null,
+         "group_id":null,
+         "name":"IN Vodafone popunder",
+         "budget":"0",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=1316&key=qdr296mn24e1dzw2iwy4l2te&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2016-01-20 14:06:28"
+      },
+      {  
+         "id":"692780",
+         "status":"paused",
+         "aux_status":null,
+         "group_id":null,
+         "name":"IN Vodafone pop non-adult",
+         "budget":"0",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=1317&key=w586g2dadg16gyu7819713t8&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2016-01-20 14:08:46"
+      },
+      {  
+         "id":"704932",
+         "status":"paused",
+         "aux_status":null,
+         "group_id":null,
+         "name":"PT Vodafone Non-adult",
+         "budget":"0",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=1328&key=8m7ubzr4c288h5lp522tn61m&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2016-01-27 11:54:19"
+      },
+      {  
+         "id":"704949",
+         "status":"paused",
+         "aux_status":null,
+         "group_id":null,
+         "name":"PT MEO Non-adult Android",
+         "budget":"0.004266059957444668",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=1328&key=8m7ubzr4c288h5lp522tn61m&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2016-01-27 11:56:45"
+      },
+      {  
+         "id":"704955",
+         "status":"paused",
+         "aux_status":null,
+         "group_id":null,
+         "name":"PT Vodafone",
+         "budget":"0",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=1329&key=g4a729c1c82cmruj56vmf597&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2016-01-27 11:59:35"
+      },
+      {  
+         "id":"704962",
+         "status":"out_of_money",
+         "aux_status":"paused",
+         "group_id":null,
+         "name":"PT MEO Android",
+         "budget":"0.004380229860544205",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=1329&key=g4a729c1c82cmruj56vmf597&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2016-01-27 12:01:34"
+      },
+      {  
+         "id":"707140",
+         "status":"paused",
+         "aux_status":null,
+         "group_id":null,
+         "name":"PT NOS Android",
+         "budget":"4.5305399894714355",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=1329&key=g4a729c1c82cmruj56vmf597&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2016-01-28 12:12:15"
+      },
+      {  
+         "id":"707151",
+         "status":"paused",
+         "aux_status":null,
+         "group_id":null,
+         "name":"PT NOS Non-adult ",
+         "budget":"4.983259201049805",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=1328&key=8m7ubzr4c288h5lp522tn61m&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2016-01-28 12:13:42"
+      },
+      {  
+         "id":"716816",
+         "status":"out_of_money",
+         "aux_status":"approved",
+         "group_id":null,
+         "name":"ZA Vodacom popunder",
+         "budget":"-0.0019135675393044949",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=1332&key=1edgit12b20mnf1ylp24i64p&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2016-02-04 16:24:02"
+      },
+      {  
+         "id":"716821",
+         "status":"out_of_money",
+         "aux_status":"paused",
+         "group_id":null,
+         "name":"ZA MTN Non-adult pop",
+         "budget":"-0.028043415397405624",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=1333&key=a2ws7a94nq9v40pdz0aq54q1&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2016-02-04 16:25:52"
+      },
+      {  
+         "id":"718429",
+         "status":"out_of_money",
+         "aux_status":"paused",
+         "group_id":null,
+         "name":"DE Vodafone  Non-adult pop",
+         "budget":"-0.031485989689826965",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=1138&key=u4v091zk98r3438hhs6qi79p&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2016-02-05 18:10:34"
+      },
+      {  
+         "id":"739263",
+         "status":"paused",
+         "aux_status":null,
+         "group_id":null,
+         "name":"CH Swisscom popunder",
+         "budget":"0",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=965&key=va10rko1l34143n6h19b6w75&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2016-02-18 15:11:56"
+      },
+      {  
+         "id":"768065",
+         "status":"paused",
+         "aux_status":null,
+         "group_id":null,
+         "name":"AU Optus non-adult",
+         "budget":"10",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=1365&key=u27v2by8zdlq37qr6357f0pn&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2016-03-05 18:50:09"
+      },
+      {  
+         "id":"768070",
+         "status":"paused",
+         "aux_status":null,
+         "group_id":null,
+         "name":"AU Telstra non-adult",
+         "budget":"5",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=1365&key=u27v2by8zdlq37qr6357f0pn&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2016-03-05 18:51:34"
+      },
+      {  
+         "id":"784293",
+         "status":"paused",
+         "aux_status":null,
+         "group_id":null,
+         "name":"AT Mobilkom Non-adult",
+         "budget":"0.00794219970703125",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=1139&key=1s1e81tr45y8969071e0g031&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2016-03-14 23:16:37"
+      },
+      {  
+         "id":"3835708",
+         "status":"paused",
+         "aux_status":null,
+         "group_id":null,
+         "name":"CZ ALL pop adult",
+         "budget":"0",
+         "url":[  
+            "http:\/\/bananaclicks.com\/click.php?c=16&key=6zc8g1mu4j41uei8h64n5b51&bgr=chat&bsgr=pop&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2016-08-11 16:29:03"
+      },
+      {  
+         "id":"3838379",
+         "status":"paused",
+         "aux_status":null,
+         "group_id":null,
+         "name":"CZ ALL popunder non-adult",
+         "budget":"0",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=1427&key=3y040wvovs6k73qb3q96v48h&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2016-08-12 12:51:28"
+      },
+      {  
+         "id":"3844696",
+         "status":"paused",
+         "aux_status":null,
+         "group_id":null,
+         "name":"UK ALL pop adult",
+         "budget":"0",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=1447&key=yqritgr2mw5ah7f0ov2e0qu5&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2016-08-15 16:31:42"
+      },
+      {  
+         "id":"3865825",
+         "status":"out_of_money",
+         "aux_status":"paused",
+         "group_id":null,
+         "name":"UK H3G non-adult",
+         "budget":"0",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=1486&key=j0riu0bhtnf7g263mad1rc7z&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2016-08-24 12:51:35"
+      },
+      {  
+         "id":"3865832",
+         "status":"paused",
+         "aux_status":null,
+         "group_id":"42512",
+         "name":"UK O2 non-adult",
+         "budget":"2.937619924545288",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=1486&key=j0riu0bhtnf7g263mad1rc7z&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2016-08-24 12:54:51"
+      },
+      {  
+         "id":"3865836",
+         "status":"out_of_money",
+         "aux_status":"paused",
+         "group_id":"42512",
+         "name":"UK Vodafone non-adult",
+         "budget":"-0.00727635994553566",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=1486&key=j0riu0bhtnf7g263mad1rc7z&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2016-08-24 12:55:28"
+      },
+      {  
+         "id":"4041008",
+         "status":"paused",
+         "aux_status":null,
+         "group_id":null,
+         "name":"GB Three adult",
+         "budget":"0.002982140053063631",
+         "url":[  
+            "http:\/\/bananaclicks.com\/click.php?c=59&key=h613gv01remursv0qge4hi1h&bgr=NULL&bsgr=NULL&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2016-11-02 14:26:07"
+      },
+      {  
+         "id":"4041021",
+         "status":"paused",
+         "aux_status":null,
+         "group_id":null,
+         "name":"GB Vodafone adult",
+         "budget":"0.009402279742062092",
+         "url":[  
+            "http:\/\/bananaclicks.com\/click.php?c=59&key=h613gv01remursv0qge4hi1h&bgr=NULL&bsgr=NULL&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2016-11-02 14:38:14"
+      },
+      {  
+         "id":"4082861",
+         "status":"paused",
+         "aux_status":null,
+         "group_id":null,
+         "name":"AT H3G non-adult CLIQ",
+         "budget":"0.006689069792628288",
+         "url":[  
+            "http:\/\/bananaclicks.com\/click.php?c=123&key=ja2hvsu66vgn3krpjyphtjt0&bgr=download&bsgr=pop&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2016-11-17 14:52:10"
+      },
+      {  
+         "id":"4082867",
+         "status":"paused",
+         "aux_status":null,
+         "group_id":null,
+         "name":"AT T-mobile non-adult CLIQ",
+         "budget":"0.003988270182162523",
+         "url":[  
+            "http:\/\/bananaclicks.com\/click.php?c=123&key=ja2hvsu66vgn3krpjyphtjt0&bgr=download&bsgr=pop&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2016-11-17 14:52:45"
+      },
+      {  
+         "id":"4082873",
+         "status":"paused",
+         "aux_status":null,
+         "group_id":null,
+         "name":"AT Mobilkom non-adult CLIQ",
+         "budget":"0.003398899920284748",
+         "url":[  
+            "http:\/\/bananaclicks.com\/click.php?c=123&key=ja2hvsu66vgn3krpjyphtjt0&bgr=download&bsgr=pop&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2016-11-17 14:54:03"
+      },
+      {  
+         "id":"4094402",
+         "status":"paused",
+         "aux_status":null,
+         "group_id":null,
+         "name":"RS Telenor non-adult CLIQ",
+         "budget":"0.008857729844748974",
+         "url":[  
+            "http:\/\/bananaclicks.com\/click.php?c=133&key=0f3h1h29yiukqugq7bwbyi77&bgr=av&bsgr=pop&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2016-11-22 14:31:31"
+      },
+      {  
+         "id":"4094428",
+         "status":"paused",
+         "aux_status":null,
+         "group_id":null,
+         "name":"RS VIP  non-adult CLIQ",
+         "budget":"0",
+         "url":[  
+            "http:\/\/bananaclicks.com\/click.php?c=133&key=0f3h1h29yiukqugq7bwbyi77&bgr=av&bsgr=pop&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2016-11-22 14:35:26"
+      },
+      {  
+         "id":"4104245",
+         "status":"paused",
+         "aux_status":null,
+         "group_id":null,
+         "name":"RS Telenor adult CLIQ",
+         "budget":"0",
+         "url":[  
+            "http:\/\/bananaclicks.com\/click.php?c=143&key=4n2l9vqg73uoe2oh924ja0aq&bgr=av&bsgr=pop&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2016-11-25 13:37:31"
+      },
+      {  
+         "id":"4104249",
+         "status":"paused",
+         "aux_status":null,
+         "group_id":null,
+         "name":"RS VIP adult CLIQ",
+         "budget":"0",
+         "url":[  
+            "http:\/\/bananaclicks.com\/click.php?c=143&key=4n2l9vqg73uoe2oh924ja0aq&bgr=av&bsgr=pop&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2016-11-25 13:38:48"
+      },
+      {  
+         "id":"4114736",
+         "status":"paused",
+         "aux_status":null,
+         "group_id":"33115",
+         "name":"GR Wind non-adult",
+         "budget":"0.006689069792628288",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=2148&key=q0m9z6moouwo1jl56wkat9gh&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2016-11-29 11:49:23"
+      },
+      {  
+         "id":"4115716",
+         "status":"paused",
+         "aux_status":null,
+         "group_id":null,
+         "name":"GR Wi-fi",
+         "budget":"-0.11610499769449234",
+         "url":[  
+            "http:\/\/bananaclicks.com\/click.php?c=90&key=28e9bse9mrgchq5u67o38a9u&bgr=NULL&bsgr=NULL&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2016-11-29 13:22:47"
+      },
+      {  
+         "id":"4173711",
+         "status":"paused",
+         "aux_status":null,
+         "group_id":null,
+         "name":"IE Vodafone non-adult",
+         "budget":"0.00747585017234087",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=1567&key=8lm7v22w1k8eczkf057f1kmc&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2016-12-13 14:06:44"
+      },
+      {  
+         "id":"4173718",
+         "status":"paused",
+         "aux_status":null,
+         "group_id":null,
+         "name":"IE Meteor non-adult",
+         "budget":"0.0036764100659638643",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=1567&key=8lm7v22w1k8eczkf057f1kmc&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2016-12-13 14:07:15"
+      },
+      {  
+         "id":"4173725",
+         "status":"paused",
+         "aux_status":null,
+         "group_id":null,
+         "name":"IE Three non-adult",
+         "budget":"5.457920074462891",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=1567&key=8lm7v22w1k8eczkf057f1kmc&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2016-12-13 14:08:12"
+      },
+      {  
+         "id":"4187144",
+         "status":"paused",
+         "aux_status":null,
+         "group_id":null,
+         "name":"AT H3G games",
+         "budget":"0",
+         "url":[  
+            "http:\/\/bananaclicks.com\/click.php?c=210&key=w05oz7c0qv19a3jf1u9q2t5k&bgr=NULL&bsgr=NULL&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2016-12-16 16:08:28"
+      },
+      {  
+         "id":"4187151",
+         "status":"paused",
+         "aux_status":null,
+         "group_id":null,
+         "name":"AT T-mobile games",
+         "budget":"0",
+         "url":[  
+            "http:\/\/bananaclicks.com\/click.php?c=210&key=w05oz7c0qv19a3jf1u9q2t5k&bgr=NULL&bsgr=NULL&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2016-12-16 16:09:27"
+      },
+      {  
+         "id":"4187158",
+         "status":"paused",
+         "aux_status":null,
+         "group_id":null,
+         "name":"AT A1 games",
+         "budget":"0",
+         "url":[  
+            "http:\/\/bananaclicks.com\/click.php?c=210&key=w05oz7c0qv19a3jf1u9q2t5k&bgr=NULL&bsgr=NULL&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2016-12-16 16:09:58"
+      },
+      {  
+         "id":"4199044",
+         "status":"paused",
+         "aux_status":null,
+         "group_id":null,
+         "name":"CR Movistar ",
+         "budget":"0.002821919973939657",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=1597&key=04lqzthufdnibun917fizo5b&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2016-12-20 11:12:40"
+      },
+      {  
+         "id":"4199331",
+         "status":"paused",
+         "aux_status":null,
+         "group_id":null,
+         "name":"MY Digi non-adult",
+         "budget":"0",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=1607&key=80ztzl17vth5ua6uip42ug68&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2016-12-20 13:32:00"
+      },
+      {  
+         "id":"4199702",
+         "status":"paused",
+         "aux_status":null,
+         "group_id":null,
+         "name":"KW Viva",
+         "budget":"-0.09797319769859314",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=1618&key=6v9ijhpay2143do93wdw63ya&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2016-12-20 15:18:00"
+      },
+      {  
+         "id":"4199709",
+         "status":"paused",
+         "aux_status":null,
+         "group_id":null,
+         "name":"KW Zain",
+         "budget":"-0.05498329922556877",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=1618&key=6v9ijhpay2143do93wdw63ya&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2016-12-20 15:18:47"
+      },
+      {  
+         "id":"4268053",
+         "status":"paused",
+         "aux_status":null,
+         "group_id":"33298",
+         "name":"AT H3G non-adult only iOS",
+         "budget":"-0.018060799688100815",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=1139&key=1s1e81tr45y8969071e0g031&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2017-01-10 11:20:50"
+      },
+      {  
+         "id":"4271896",
+         "status":"out_of_money",
+         "aux_status":"approved",
+         "group_id":"33296",
+         "name":"AT H3G Popunder Android",
+         "budget":"-0.03480850160121918",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=1682&key=2fdrwyq2kr0rd7t04fyo0737&"
+         ],
+         "created":"2017-01-11 11:51:41"
+      },
+      {  
+         "id":"4271903",
+         "status":"out_of_money",
+         "aux_status":"approved",
+         "group_id":"33296",
+         "name":"AT H3G Popunder iOS",
+         "budget":"-0.0012940099695697427",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=1685&key=q10wsq1yoqahlbq86qv3zuun&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2017-01-11 11:57:00"
+      },
+      {  
+         "id":"4271952",
+         "status":"paused",
+         "aux_status":null,
+         "group_id":"33298",
+         "name":"AT H3G Popunder Android Non Adult",
+         "budget":"0.00015412599896080792",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=1686&key=n887u0kyol56c168bhfw3s62&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2017-01-11 12:15:20"
+      },
+      {  
+         "id":"4271973",
+         "status":"paused",
+         "aux_status":null,
+         "group_id":"33298",
+         "name":"AT H3G Popunder iOS NonAdult",
+         "budget":"-0.05658090114593506",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=1687&key=f7trhsq99w108qn25ndb80w7&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2017-01-11 12:17:38"
+      },
+      {  
+         "id":"4293057",
+         "status":"paused",
+         "aux_status":null,
+         "group_id":null,
+         "name":"CH Sunrise adult Android",
+         "budget":"3.528470039367676",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=965&key=va10rko1l34143n6h19b6w75&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2017-01-17 08:56:15"
+      },
+      {  
+         "id":"4293981",
+         "status":"paused",
+         "aux_status":null,
+         "group_id":null,
+         "name":"CH Sunrise non-adult Android",
+         "budget":"-0.0008925460278987885",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=1733&key=jjzw7whlf4a05c91uvkaa48o&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2017-01-17 13:53:39"
+      },
+      {  
+         "id":"4298496",
+         "status":"out_of_money",
+         "aux_status":"approved",
+         "group_id":"33296",
+         "name":"AT A1 adult ANDROID",
+         "budget":"-0.004463810008019209",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=1682&key=2fdrwyq2kr0rd7t04fyo0737&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2017-01-18 14:42:18"
+      },
+      {  
+         "id":"4298503",
+         "status":"out_of_money",
+         "aux_status":"approved",
+         "group_id":"33298",
+         "name":"AT A1 non-adult ANDROID",
+         "budget":"0.00016403199697379023",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=1686&key=n887u0kyol56c168bhfw3s62&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2017-01-18 14:45:58"
+      },
+      {  
+         "id":"4298510",
+         "status":"paused",
+         "aux_status":null,
+         "group_id":"33296",
+         "name":"AT T-mobile adult ANDROID",
+         "budget":"0.004228590056300163",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=1062&key=7hqcll4kag277472e87k115z&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2017-01-18 14:48:00"
+      },
+      {  
+         "id":"4298517",
+         "status":"paused",
+         "aux_status":null,
+         "group_id":null,
+         "name":"AT T-mobile non-adult ANDROID",
+         "budget":"-0.004733310081064701",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=1139&key=1s1e81tr45y8969071e0g031&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2017-01-18 14:49:30"
+      },
+      {  
+         "id":"4305944",
+         "status":"out_of_money",
+         "aux_status":"approved",
+         "group_id":null,
+         "name":"AU Optus non-adult ANDROID",
+         "budget":"0.008516309782862663",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=1365&key=u27v2by8zdlq37qr6357f0pn&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2017-01-20 13:10:45"
+      },
+      {  
+         "id":"4305958",
+         "status":"paused",
+         "aux_status":null,
+         "group_id":null,
+         "name":"AU Optus adult ANDROID",
+         "budget":"0.0007874239818193018",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=1088&key=s4z3935qdct15v3hj5pp11sm&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2017-01-20 13:12:32"
+      },
+      {  
+         "id":"4324221",
+         "status":"paused",
+         "aux_status":null,
+         "group_id":null,
+         "name":"PL Plus adult ANDROID",
+         "budget":"-0.0014395699836313725",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=1084&key=6hqqnc0kodvoo4tq16m2glg9&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2017-01-25 13:50:44"
+      },
+      {  
+         "id":"4324228",
+         "status":"paused",
+         "aux_status":null,
+         "group_id":null,
+         "name":"PL Plus non-adult ANDROID",
+         "budget":"-0.048915501683950424",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=1132&key=uopr5pyr95e91s981u7yu73a&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2017-01-25 13:51:52"
+      },
+      {  
+         "id":"4344941",
+         "status":"out_of_money",
+         "aux_status":"paused",
+         "group_id":null,
+         "name":"HU Telenor adult",
+         "budget":"0.0006122590275481343",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=1769&key=ep80d3suep1l7mry3cq25tz4&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2017-01-31 16:19:13"
+      },
+      {  
+         "id":"4344948",
+         "status":"out_of_money",
+         "aux_status":"approved",
+         "group_id":null,
+         "name":"HU Telekom adult",
+         "budget":"0.00009346009755972773",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=1769&key=ep80d3suep1l7mry3cq25tz4&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2017-01-31 16:20:01"
+      },
+      {  
+         "id":"4344955",
+         "status":"out_of_money",
+         "aux_status":"approved",
+         "group_id":null,
+         "name":"HU Vodafone adult",
+         "budget":"0.006274220068007708",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=1769&key=ep80d3suep1l7mry3cq25tz4&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2017-01-31 16:20:35"
+      },
+      {  
+         "id":"4348588",
+         "status":"paused",
+         "aux_status":null,
+         "group_id":null,
+         "name":"HU Telenor non-adult",
+         "budget":"0.812421977519989",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=1777&key=ruifu747ic45jfqyqp5lve5f&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2017-02-01 15:13:43"
+      },
+      {  
+         "id":"4348602",
+         "status":"paused",
+         "aux_status":null,
+         "group_id":null,
+         "name":"HU Telekom non-adult",
+         "budget":"0.34964001178741455",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=1777&key=ruifu747ic45jfqyqp5lve5f&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2017-02-01 15:14:28"
+      },
+      {  
+         "id":"4348609",
+         "status":"out_of_money",
+         "aux_status":"approved",
+         "group_id":null,
+         "name":"HU Vodafone non-adult",
+         "budget":"0.008638380095362663",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=1777&key=ruifu747ic45jfqyqp5lve5f&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2017-02-01 15:15:27"
+      },
+      {  
+         "id":"4426487",
+         "status":"out_of_money",
+         "aux_status":"paused",
+         "group_id":null,
+         "name":"GR Vodafone non-adult Cosmik",
+         "budget":"0",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=1889&key=w5soyjqme1v88e19p1ghs8g6&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2017-02-22 15:20:07"
+      },
+      {  
+         "id":"4426492",
+         "status":"out_of_money",
+         "aux_status":"paused",
+         "group_id":null,
+         "name":"GR Cosmote non-adult Cosmik",
+         "budget":"0",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=1889&key=w5soyjqme1v88e19p1ghs8g6&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2017-02-22 15:20:35"
+      },
+      {  
+         "id":"4426496",
+         "status":"paused",
+         "aux_status":null,
+         "group_id":null,
+         "name":"GR Wind non-adult Cosmik",
+         "budget":"0.0048589701764285564",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=1889&key=w5soyjqme1v88e19p1ghs8g6&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2017-02-22 15:21:09"
+      },
+      {  
+         "id":"4484844",
+         "status":"paused",
+         "aux_status":null,
+         "group_id":null,
+         "name":"PT Vodafone adult ANDROID",
+         "budget":"0",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=1329&key=g4a729c1c82cmruj56vmf597&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2017-03-16 10:38:02"
+      },
+      {  
+         "id":"4484853",
+         "status":"paused",
+         "aux_status":null,
+         "group_id":null,
+         "name":"PT Vodafone non-adult ANDROID",
+         "budget":"0",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=1328&key=8m7ubzr4c288h5lp522tn61m&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2017-03-16 10:39:59"
+      },
+      {  
+         "id":"4497086",
+         "status":"paused",
+         "aux_status":null,
+         "group_id":null,
+         "name":"SK Orange non-adult",
+         "budget":"0.007753369864076376",
+         "url":[  
+            "http:\/\/bananaclicks.com\/click.php?c=238&key=go56njz798hqw3ra7055hw22&bgr=NULL&bsgr=NULL&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2017-03-21 11:18:15"
+      },
+      {  
+         "id":"4497089",
+         "status":"paused",
+         "aux_status":null,
+         "group_id":null,
+         "name":"SK O2 non-adult",
+         "budget":"0.006174089852720499",
+         "url":[  
+            "http:\/\/bananaclicks.com\/click.php?c=238&key=go56njz798hqw3ra7055hw22&bgr=NULL&bsgr=NULL&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2017-03-21 11:18:37"
+      },
+      {  
+         "id":"4497091",
+         "status":"paused",
+         "aux_status":null,
+         "group_id":null,
+         "name":"SK T-mobile non-adult",
+         "budget":"0.006673810072243214",
+         "url":[  
+            "http:\/\/bananaclicks.com\/click.php?c=238&key=go56njz798hqw3ra7055hw22&bgr=NULL&bsgr=NULL&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2017-03-21 11:19:27"
+      },
+      {  
+         "id":"4497105",
+         "status":"paused",
+         "aux_status":null,
+         "group_id":null,
+         "name":"SK Orange adult",
+         "budget":"0.006275179795920849",
+         "url":[  
+            "http:\/\/bananaclicks.com\/click.php?c=239&key=c47u52n5lcl21zceo2i523sf&bgr=NULL&bsgr=NULL&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2017-03-21 11:22:36"
+      },
+      {  
+         "id":"4497113",
+         "status":"paused",
+         "aux_status":null,
+         "group_id":null,
+         "name":"SK O2 adult",
+         "budget":"0.009244919754564762",
+         "url":[  
+            "http:\/\/bananaclicks.com\/click.php?c=239&key=c47u52n5lcl21zceo2i523sf&bgr=NULL&bsgr=NULL&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2017-03-21 11:23:55"
+      },
+      {  
+         "id":"4497124",
+         "status":"paused",
+         "aux_status":null,
+         "group_id":null,
+         "name":"SK T-mobile adult",
+         "budget":"0",
+         "url":[  
+            "http:\/\/bananaclicks.com\/click.php?c=239&key=c47u52n5lcl21zceo2i523sf&bgr=NULL&bsgr=NULL&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2017-03-21 11:24:52"
+      },
+      {  
+         "id":"4504730",
+         "status":"paused",
+         "aux_status":null,
+         "group_id":"33115",
+         "name":"GR Cosmote non-adult",
+         "budget":"0",
+         "url":[  
+            "http:\/\/bananaclicks.com\/click.php?c=90&key=28e9bse9mrgchq5u67o38a9u&bgr=NULL&bsgr=NULL&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2017-03-23 16:14:22"
+      },
+      {  
+         "id":"4504737",
+         "status":"paused",
+         "aux_status":null,
+         "group_id":"33115",
+         "name":"GR Vodafone non-adult",
+         "budget":"0",
+         "url":[  
+            "http:\/\/bananaclicks.com\/click.php?c=90&key=28e9bse9mrgchq5u67o38a9u&bgr=NULL&bsgr=NULL&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2017-03-23 16:15:53"
+      },
+      {  
+         "id":"4630434",
+         "status":"paused",
+         "aux_status":null,
+         "group_id":null,
+         "name":"GR Wind adult 3rd party cosmik",
+         "budget":"0.007539750076830387",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=2165&key=qw1550e5q1gw9fo842ah54yp&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2017-05-11 15:06:34"
+      },
+      {  
+         "id":"4700052",
+         "status":"out_of_money",
+         "aux_status":"approved",
+         "group_id":null,
+         "name":"AU Optus 3rd offer",
+         "budget":"0.007495880126953125",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=1088&key=s4z3935qdct15v3hj5pp11sm&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2017-06-06 15:00:14"
+      },
+      {  
+         "id":"4743522",
+         "status":"paused",
+         "aux_status":null,
+         "group_id":null,
+         "name":"US all adult",
+         "budget":"-0.06614969670772552",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=2213&key=98og7hwpf1gm34avg7mkn7i0&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2017-06-23 14:05:26"
+      },
+      {  
+         "id":"4786945",
+         "status":"out_of_money",
+         "aux_status":"approved",
+         "group_id":null,
+         "name":"Global popunder",
+         "budget":"0.009060380049049854",
+         "url":[  
+            "http:\/\/win.ningoffer.club\/?utm_medium=cc28e8b4e585b50e1f46275bbce31fc14c54019c&utm_campaign=globalna&1=[WEBSITEID]&2=[KEYWORD]&3=[CATEGORYID]&4=[BID]&5=[QUALITY]"
+         ],
+         "created":"2017-07-07 14:11:40"
+      },
+      {  
+         "id":"4800133",
+         "status":"out_of_money",
+         "aux_status":"approved",
+         "group_id":null,
+         "name":"ID ALL monetizer",
+         "budget":"0",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=2238&key=5n6bvt4np4lwrwyl7i27s6r9&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2017-07-11 16:02:22"
+      },
+      {  
+         "id":"4800140",
+         "status":"paused",
+         "aux_status":null,
+         "group_id":null,
+         "name":"ID ALL monetizer non-adult",
+         "budget":"2.0229198932647705",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=2250&key=0jf09lsk9c694969l586l9qq&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2017-07-11 16:03:49"
+      },
+      {  
+         "id":"4827426",
+         "status":"out_of_money",
+         "aux_status":"approved",
+         "group_id":null,
+         "name":"ES Orange adult",
+         "budget":"-0.006517710164189339",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=975&key=2i064p172p6hg44n3f00gozw&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2017-07-17 15:28:06"
+      },
+      {  
+         "id":"4836148",
+         "status":"out_of_money",
+         "aux_status":"approved",
+         "group_id":null,
+         "name":"US all non-adult",
+         "budget":"-0.0939570963382721",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=2281&key=6kzczz4tg6hoy8m2dz487b6h&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2017-07-19 14:37:54"
+      },
+      {  
+         "id":"4922128",
+         "status":"paused",
+         "aux_status":null,
+         "group_id":null,
+         "name":"TR all adult (except Turkcell)",
+         "budget":"-0.1954209953546524",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=2238&key=5n6bvt4np4lwrwyl7i27s6r9&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2017-08-08 20:42:16"
+      },
+      {  
+         "id":"4922135",
+         "status":"paused",
+         "aux_status":null,
+         "group_id":null,
+         "name":"TR all n on-adult (except Turkcell)",
+         "budget":"-0.0692095011472702",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=2250&key=0jf09lsk9c694969l586l9qq&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2017-08-08 20:43:48"
+      },
+      {  
+         "id":"4948812",
+         "status":"paused",
+         "aux_status":null,
+         "group_id":null,
+         "name":"DE Global non-adult wifi",
+         "budget":"-0.22315199673175812",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=2250&key=0jf09lsk9c694969l586l9qq&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2017-08-14 12:59:01"
+      },
+      {  
+         "id":"4983140",
+         "status":"out_of_money",
+         "aux_status":"approved",
+         "group_id":null,
+         "name":"Global TrafficCompany",
+         "budget":"0",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=2328&key=rqcsjq9lh12g86n4c43ta66u&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2017-08-21 13:46:45"
+      },
+      {  
+         "id":"4983161",
+         "status":"paused",
+         "aux_status":null,
+         "group_id":null,
+         "name":"Global TrafficCompany non-adult",
+         "budget":"-0.06076569855213165",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=2250&key=0jf09lsk9c694969l586l9qq&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2017-08-21 13:48:20"
+      },
+      {  
+         "id":"5070395",
+         "status":"paused",
+         "aux_status":null,
+         "group_id":null,
+         "name":"Global IT adult",
+         "budget":"-0.015502599999308586",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=2238&key=5n6bvt4np4lwrwyl7i27s6r9&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2017-09-12 09:38:16"
+      },
+      {  
+         "id":"5070500",
+         "status":"paused",
+         "aux_status":null,
+         "group_id":null,
+         "name":"Global IT Vodafone non-adult",
+         "budget":"-0.009446649812161922",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=2381&key=80o33sa76h0i22331341cgu4&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2017-09-12 10:03:24"
+      },
+      {  
+         "id":"5083156",
+         "status":"paused",
+         "aux_status":null,
+         "group_id":null,
+         "name":"Global IT All non-adult",
+         "budget":"-0.03854219987988472",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=2381&key=80o33sa76h0i22331341cgu4&size=[CATEGORYID]&ID=all&ref=[WEBSITEID]"
+         ],
+         "created":"2017-09-14 10:52:15"
+      },
+      {  
+         "id":"5089267",
+         "status":"out_of_money",
+         "aux_status":"approved",
+         "group_id":"33298",
+         "name":"AT H3G Popunder non-adult iOS",
+         "budget":"0.007890700362622738",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=1687&key=f7trhsq99w108qn25ndb80w7&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2017-09-15 13:50:12"
+      },
+      {  
+         "id":"5100376",
+         "status":"paused",
+         "aux_status":null,
+         "group_id":null,
+         "name":"Global AU desktop",
+         "budget":"-0.018991900607943535",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=2381&key=80o33sa76h0i22331341cgu4&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2017-09-18 11:38:57"
+      },
+      {  
+         "id":"5146457",
+         "status":"paused",
+         "aux_status":null,
+         "group_id":null,
+         "name":"Global UK EE adult TC",
+         "budget":"4.249949932098389",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=2328&key=rqcsjq9lh12g86n4c43ta66u&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2017-09-27 14:16:53"
+      },
+      {  
+         "id":"5146464",
+         "status":"paused",
+         "aux_status":null,
+         "group_id":null,
+         "name":"Global DE vodafone adult TC",
+         "budget":"0.9946569800376892",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=2328&key=rqcsjq9lh12g86n4c43ta66u&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2017-09-27 14:18:03"
+      },
+      {  
+         "id":"5146485",
+         "status":"paused",
+         "aux_status":null,
+         "group_id":null,
+         "name":"Global PT Meo adult TC",
+         "budget":"4.3774800300598145",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=2328&key=rqcsjq9lh12g86n4c43ta66u&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2017-09-27 14:19:26"
+      },
+      {  
+         "id":"5173897",
+         "status":"paused",
+         "aux_status":null,
+         "group_id":null,
+         "name":"IT TIM adult",
+         "budget":"0.6197448372840881",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=2421&key=g1n42uy7p241i2u4hh9ker9m&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2017-10-04 11:18:34"
+      },
+      {  
+         "id":"5173925",
+         "status":"paused",
+         "aux_status":null,
+         "group_id":null,
+         "name":"IT Wind non-adult",
+         "budget":"9.71133041381836",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=2422&key=2ykpfzj245qysf01n0yd9201&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2017-10-04 11:20:54"
+      },
+      {  
+         "id":"5195716",
+         "status":"out_of_money",
+         "aux_status":"paused",
+         "group_id":null,
+         "name":"MX Telcel non-adult",
+         "budget":"0",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=2469&key=e88m6g9kjm9aw99630wb6jq2&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2017-10-09 11:45:11"
+      },
+      {  
+         "id":"5207532",
+         "status":"out_of_money",
+         "aux_status":"approved",
+         "group_id":"42512",
+         "name":"UK Virgin Non-adult",
+         "budget":"0",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=1486&key=j0riu0bhtnf7g263mad1rc7z&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2017-10-11 13:44:08"
+      },
+      {  
+         "id":"5226299",
+         "status":"out_of_money",
+         "aux_status":"approved",
+         "group_id":null,
+         "name":"Global DE desktop",
+         "budget":"-0.09899870306253433",
+         "url":[  
+            "http:\/\/win.ningoffer.club\/?utm_medium=11cbcb03b39d53d8e8629b375fea6abfc57e9edd&utm_campaign=DEdesktop&1=[WEBSITEID]&2=[KEYWORD]&3=[CATEGORYID]&4=[BID]&5=[QUALITY]"
+         ],
+         "created":"2017-10-16 10:44:01"
+      },
+      {  
+         "id":"5242000",
+         "status":"out_of_money",
+         "aux_status":"approved",
+         "group_id":null,
+         "name":"AT H3G non-adult only iOS FMC",
+         "budget":"-0.006296069826930761",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=2497&key=6k0gd497vo416tq006okj91f&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2017-10-18 11:08:17"
+      },
+      {  
+         "id":"5276511",
+         "status":"paused",
+         "aux_status":null,
+         "group_id":null,
+         "name":"CH Sunrise non-adult Android NEW",
+         "budget":"10",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=1733&key=jjzw7whlf4a05c91uvkaa48o&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2017-10-26 11:11:03"
+      },
+      {  
+         "id":"5276525",
+         "status":"paused",
+         "aux_status":null,
+         "group_id":null,
+         "name":"CH Sunrise Aadult Android NEW",
+         "budget":"10",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=965&key=va10rko1l34143n6h19b6w75&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2017-10-26 11:14:17"
+      },
+      {  
+         "id":"5276546",
+         "status":"paused",
+         "aux_status":null,
+         "group_id":null,
+         "name":"PT VF Android Adult ",
+         "budget":"3.1692800521850586",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=1329&key=g4a729c1c82cmruj56vmf597&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2017-10-26 11:21:06"
+      },
+      {  
+         "id":"5276553",
+         "status":"paused",
+         "aux_status":null,
+         "group_id":null,
+         "name":"PT VF Non-Adult",
+         "budget":"4.992000102996826",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=1328&key=8m7ubzr4c288h5lp522tn61m&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2017-10-26 11:22:12"
+      },
+      {  
+         "id":"5276567",
+         "status":"paused",
+         "aux_status":null,
+         "group_id":null,
+         "name":"PT Meo  Non-Adult",
+         "budget":"2.708089828491211",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=1328&key=8m7ubzr4c288h5lp522tn61m&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2017-10-26 11:29:00"
+      },
+      {  
+         "id":"5276574",
+         "status":"paused",
+         "aux_status":null,
+         "group_id":null,
+         "name":"PT Meo Android Adult ",
+         "budget":"9.925399780273438",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=1329&key=g4a729c1c82cmruj56vmf597&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2017-10-26 11:31:42"
+      },
+      {  
+         "id":"5276609",
+         "status":"out_of_money",
+         "aux_status":"approved",
+         "group_id":null,
+         "name":"PL Plus Android Adult",
+         "budget":"-0.008139289915561676",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=1084&key=6hqqnc0kodvoo4tq16m2glg9&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2017-10-26 11:39:01"
+      },
+      {  
+         "id":"5276616",
+         "status":"paused",
+         "aux_status":null,
+         "group_id":null,
+         "name":"PL Plus Android Adult",
+         "budget":"10",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=1132&key=uopr5pyr95e91s981u7yu73a&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2017-10-26 11:40:27"
+      },
+      {  
+         "id":"5277589",
+         "status":"out_of_money",
+         "aux_status":"approved",
+         "group_id":"42512",
+         "name":"UK Three non-adult",
+         "budget":"-0.11148499697446823",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=1486&key=j0riu0bhtnf7g263mad1rc7z&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2017-10-26 15:47:26"
+      },
+      {  
+         "id":"5411464",
+         "status":"out_of_money",
+         "aux_status":"approved",
+         "group_id":null,
+         "name":"AT all carriers adult Pushy",
+         "budget":"-0.0008378340280614793",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=2687&key=9d1qg0i5yfl8d30j8p65dpv9&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2017-12-01 12:04:02"
+      },
+      {  
+         "id":"5417960",
+         "status":"paused",
+         "aux_status":null,
+         "group_id":null,
+         "name":"AT All Carriers Adult Push",
+         "budget":"5",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=2687&key=9d1qg0i5yfl8d30j8p65dpv9&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2017-12-04 10:43:11"
+      },
+      {  
+         "id":"5417988",
+         "status":"paused",
+         "aux_status":null,
+         "group_id":null,
+         "name":"AT All Carriers Non-Adult Push",
+         "budget":"5",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=2699&key=nk8l61qds1be6fklbo895cbk&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2017-12-04 10:58:34"
+      },
+      {  
+         "id":"5417995",
+         "status":"out_of_money",
+         "aux_status":"paused",
+         "group_id":null,
+         "name":"DE All Carriers Non-Adult Push",
+         "budget":"0",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=2700&key=ffnm3yv81p5twnq0hazn35v6&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2017-12-04 11:00:12"
+      },
+      {  
+         "id":"5418009",
+         "status":"out_of_money",
+         "aux_status":"paused",
+         "group_id":null,
+         "name":"DE All Carriers Adult Push",
+         "budget":"0",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=2692&key=7i86del451847qf1lpw9c9sd&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2017-12-04 11:03:48"
+      },
+      {  
+         "id":"5439103",
+         "status":"out_of_money",
+         "aux_status":"approved",
+         "group_id":null,
+         "name":"Global US non-adult",
+         "budget":"-0.021357299759984016",
+         "url":[  
+            "https:\/\/www.youtube.com\/watch?v=Gd09MdZU1AM"
+         ],
+         "created":"2017-12-12 10:04:09"
+      },
+      {  
+         "id":"5505249",
+         "status":"out_of_money",
+         "aux_status":"approved",
+         "group_id":null,
+         "name":"FR SFR  non-adult Wingo",
+         "budget":"-0.03600719943642616",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=2819&key=qy1g748suq18npoeuee36g82&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2018-01-15 13:18:24"
+      },
+      {  
+         "id":"5514671",
+         "status":"paused",
+         "aux_status":null,
+         "group_id":null,
+         "name":"IT H3G adult",
+         "budget":"4.955860614776611",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=2421&key=g1n42uy7p241i2u4hh9ker9m&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2018-01-18 14:13:44"
+      },
+      {  
+         "id":"5514678",
+         "status":"paused",
+         "aux_status":null,
+         "group_id":null,
+         "name":"IT Vodafone non-adult",
+         "budget":"1.6592854261398315",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=2422&key=2ykpfzj245qysf01n0yd9201&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2018-01-18 14:14:41"
+      },
+      {  
+         "id":"5524287",
+         "status":"paused",
+         "aux_status":null,
+         "group_id":null,
+         "name":"IT TIM non-adult",
+         "budget":"5",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=2422&key=2ykpfzj245qysf01n0yd9201&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2018-01-22 11:43:00"
+      },
+      {  
+         "id":"5566034",
+         "status":"paused",
+         "aux_status":null,
+         "group_id":null,
+         "name":"IN Airtel non-adult",
+         "budget":"3",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=2940&key=t987n7igw5qr46513k073q6f&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2018-02-08 12:15:15"
+      },
+      {  
+         "id":"5586264",
+         "status":"out_of_money",
+         "aux_status":"approved",
+         "group_id":null,
+         "name":"AR Telecom adult",
+         "budget":"-0.0034891716204583645",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=2964&key=0m9sej0o3o9591t3f4155t02&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2018-02-22 10:15:46"
+      },
+      {  
+         "id":"5602479",
+         "status":"out_of_money",
+         "aux_status":"approved",
+         "group_id":null,
+         "name":"Global IT non-adult",
+         "budget":"-0.057524945586919785",
+         "url":[  
+            "http:\/\/win.ningoffer.club\/?utm_medium=cc28e8b4e585b50e1f46275bbce31fc14c54019c&utm_campaign=globalna&1=[WEBSITEID]&2=[KEYWORD]&3=[CATEGORYID]&4=[BID]&5=[QUALITY]"
+         ],
+         "created":"2018-03-06 11:36:38"
+      },
+      {  
+         "id":"5612094",
+         "status":"out_of_money",
+         "aux_status":"approved",
+         "group_id":null,
+         "name":"Global ZA  non-adult DESKTOP",
+         "budget":"-0.006752876564860344",
+         "url":[  
+            "http:\/\/win.ningoffer.club\/?utm_medium=cc28e8b4e585b50e1f46275bbce31fc14c54019c&utm_campaign=globalna&1=[WEBSITEID]&2=[KEYWORD]&3=[CATEGORYID]&4=[BID]&5=[QUALITY]"
+         ],
+         "created":"2018-03-12 11:00:27"
+      },
+      {  
+         "id":"5632284",
+         "status":"out_of_money",
+         "aux_status":"approved",
+         "group_id":null,
+         "name":"US all adult dating",
+         "budget":"-0.032784584909677505",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=3049&key=5cow73zu532q3l82f8ww7845&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2018-03-22 11:37:26"
+      },
+      {  
+         "id":"5638959",
+         "status":"paused",
+         "aux_status":null,
+         "group_id":null,
+         "name":"SE all adult",
+         "budget":"0.3192000091075897",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=3063&key=cwpr196e18qscn5c4t4ekmpj&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2018-03-26 13:06:59"
+      },
+      {  
+         "id":"5666599",
+         "status":"paused",
+         "aux_status":null,
+         "group_id":null,
+         "name":"ZA MTN Adult",
+         "budget":"1.983799934387207",
+         "url":[  
+            "http:\/\/mt.kiwiclicks.com\/click.php?c=1332&key=1edgit12b20mnf1ylp24i64p&size=[CATEGORYID]&ID=[ISPID]&ref=[WEBSITEID]"
+         ],
+         "created":"2018-04-11 15:57:44"
+      }
+   ]
+}

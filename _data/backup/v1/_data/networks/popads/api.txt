@@ -1,0 +1,20 @@
+https://www.popads.net/api/
+99b8486b5899accb5c29ceec0410e1ba991998c2
+
+
+Get campaigns
+	GET https://www.popads.net/api/campaign_list?key=99b8486b5899accb5c29ceec0410e1ba991998c2
+	Retrieves list of campaigns.
+	
+Campaign start
+	POST https://www.popads.net/api/campaign_start?key=99b8486b5899accb5c29ceec0410e1ba991998c2&campaign_id=<campaign ID>
+	If campaign is paused, start it or mark as reached daily budget. If it is out of money, set it to start after top up.
+	
+Campaign pause
+	POST https://www.popads.net/api/campaign_pause?key=99b8486b5899accb5c29ceec0410e1ba991998c2&campaign_id=<campaign ID>
+	If campaign is running or reached daily budget, pause it. If it is out of money, set it to pause after top up.
+	
+Campaign topup
+	POST https://www.popads.net/api/campaign_top_up?key=99b8486b5899accb5c29ceec0410e1ba991998c2&campaign_id=<campaign ID>&amount=<amount>
+	Top up campaign with given amount. If campaign is marked as out of budget, start it or mark as paused according to the after approval setting. Enter amount as numeric value, without currency sign, with dot (".") as decimal separator.
+	This command might return "Negative budgets exceeded limit" error. It means that you have campaigns, that have negative budget, and their sum exceeded our current limit. Before you'll be able to top up any campaign, you need to solve this situation, either by trying to top up via panel (you will be redirected to subsite allowing you to correct all these budgets at once), or via getting campaign list and performing Empty Budget command for each of them. (see remarks below)

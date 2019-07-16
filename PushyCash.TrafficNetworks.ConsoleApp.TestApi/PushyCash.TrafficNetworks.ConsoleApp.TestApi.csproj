@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{59E18FC6-35B6-4258-808C-91B843451A1D}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>PushyCash.TrafficNetworks.ConsoleApp.TestApi</RootNamespace>
+    <AssemblyName>PushyCash.TrafficNetworks.ConsoleApp.TestApi</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\Direct\Direct.Core\Direct.Core.csproj">
+      <Project>{79bf132c-fe95-4096-8bed-7e981c50e71c}</Project>
+      <Name>Direct.Core</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PushyCash.Afflow\PushyCash.Afflow.csproj">
+      <Project>{1c9a1ed2-a558-4fa0-a1b4-059ba2a6e9fe}</Project>
+      <Name>PushyCash.Afflow</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PushyCash.Socket.Core\PushyCash.Sockets.Core.csproj">
+      <Project>{707a9e88-5169-4528-a119-220acea544f4}</Project>
+      <Name>PushyCash.Sockets.Core</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PushyCash.TrafficNetwork.Zeropark\PushyCash.TrafficNetworks.Zeropark.csproj">
+      <Project>{f47167b8-979d-443a-a081-b2f9cf71b6f5}</Project>
+      <Name>PushyCash.TrafficNetworks.Zeropark</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PushyCash.TrafficNetworks.PropellerAds\PushyCash.TrafficNetworks.PropellerAds.csproj">
+      <Project>{ee7b0a7f-0f0c-42b5-99ea-d789f5f121e3}</Project>
+      <Name>PushyCash.TrafficNetworks.PropellerAds</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PushyCash.TrafficNetwork\PushyCash.TrafficNetworks.Core.csproj">
+      <Project>{7bf7160a-91f4-410c-9142-28ecd161e134}</Project>
+      <Name>PushyCash.TrafficNetworks.Core</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PushyCash\PushyCash.Core.csproj">
+      <Project>{647878cd-e696-4ff4-9dbc-a67e98d9750e}</Project>
+      <Name>PushyCash.Core</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

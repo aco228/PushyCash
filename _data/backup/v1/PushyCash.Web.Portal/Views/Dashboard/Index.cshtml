@@ -1,0 +1,112 @@
+﻿
+@{
+  Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+  <meta name="viewport" content="width=device-width" />
+  <title>Dashboard</title>
+
+  <script src="https://unpkg.com/vue@latest"></script>
+  <script src="https://unpkg.com/vue-select@latest"></script>
+  <link href="~/Content/Dashboard/style.css" rel="stylesheet" />
+</head>
+<body>
+  <div id="app">
+    <div class="container">
+      <div class="filter">
+        <div class="filter-item" style="grid-column-start:2">
+          <label>Country</label>
+          <v-select label="Name" :options="countries" v-model="selectedCountry"></v-select>
+        </div>
+        <div class="filter-item">
+          <label>Mobile Operator</label>
+          <v-select label="Name" v-model="selectedMobileOperator" :options="mobileOperators"></v-select>
+        </div>
+        <div class="filter-item">
+          <label>Vertical</label>
+          <v-select label="Name" v-model="selectedVertical" :options="verticals"></v-select>
+        </div>
+        <div class="filter-item">
+          <label>Device</label>
+          <v-select label="Name" v-model="selectedDevice" :options="devices"></v-select>
+        </div>
+        <div class="filter-item">
+          <label></label>
+          <div class="btn" v-on:click="onSelect">SELECT</div>
+        </div>
+      </div>
+      <div class="content">
+        <div class="items">
+          <div>
+            Country
+          </div>
+          <div>
+            MobileOperator
+          </div>
+          <div>
+            Vertical
+          </div>
+          <div>
+            Device
+          </div>
+          <div>
+            Conversions
+          </div>
+          <div>
+            Payout
+          </div>
+          <div>
+            Minutes
+          </div>
+          <div>
+            CPC
+          </div>
+          <div>
+            TD
+          </div>
+          <div style="grid-column-start:-1">
+            <img src="~/Content/Dashboard/plus.png" alt="Alternate Text" style="height:18px; cursor:pointer;" v-on:click="onAdd" />
+          </div>
+        </div>
+        <hr class="divider" />
+        <div class="items tracking-options" v-for="t of trackingOptions">
+          <div class="field"><input type="text" :disabled="!t.new" v-bind:class="[t.new == true? 'input-edit' : '']" class="input" v-model="t.CountryName" /></div>
+          <div class="field"><input type="text" :disabled="!t.new" v-bind:class="[t.new == true? 'input-edit' : '']"  class="input" v-model="t.MobileOperator" /></div>
+          <div class="field"><input type="text" :disabled="!t.new" v-bind:class="[t.new == true? 'input-edit' : '']"  class="input" v-model="t.Vertical" /></div>
+          <div class="field"><input type="text" :disabled="!t.new" v-bind:class="[t.new == true? 'input-edit' : '']" class="input" v-model="t.Device" /></div>
+          <div class="field">
+            <input type="number" :disabled="!t.edit" v-bind:class="[t.edit == true? 'input-edit' : '']" class="input" v-model.number="t.TrackingConversions" />
+          </div>
+          <div class="field">
+            <input type="number" :required="t.TrackingOptionsID == 1" step="0.1" :disabled="!t.edit" v-bind:class="[t.edit == true? 'input-edit' : '']" class="input" v-model.number="t.TrackingPayout" />
+          </div>
+          <div class="field">
+            <input type="number" :disabled="!t.edit" v-bind:class="[t.edit == true? 'input-edit' : '']" class="input" v-model.number="t.TrackingMinutes" />
+          </div>
+          <div class="field">
+            <input type="number" :disabled="!t.edit" v-bind:class="[t.edit == true? 'input-edit' : '']" class="input" v-model.number="t.ClicksPerConversion" />
+          </div>
+          <div class="field">
+            <input type="number" step="0.1" :disabled="!t.edit" v-bind:class="[t.edit == true? 'input-edit' : '']" class="input" v-model.number="t.ToleratedDeficit" />
+          </div>
+          <div class="controls-eu">
+            <div class="btn update" v-if="t.edit && !t.new" v-on:click="onUpdate(t.TrackingOptionsID)">Update</div>
+            <div class="btn edit" v-if="!t.edit" v-on:click="onEdit(t.TrackingOptionsID)">Edit</div>
+            <div class="btn update" v-if="t.new" v-on:click="add(t)">Add</div>
+          </div>
+          <div class="btn delete" v-on:click="onDelete(t.TrackingOptionsID)">Delete</div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+  <script src="https://unpkg.com/vue-swal"></script>
+
+  <script src="~/Scripts/Dashboard/models.js"></script>
+  <script src="~/Scripts/Dashboard/app.js"></script>
+</body>
+</html>

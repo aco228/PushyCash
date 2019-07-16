@@ -1,0 +1,242 @@
+﻿
+<!DOCTYPE html>
+
+<html>
+<head>
+  <meta name="viewport" content="width=device-width" />
+  <title>Live</title>
+  <link href="~/Content/Live/style.css" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css?family=Poppins:300,400,700" rel="stylesheet">
+  <link href="~/Content/Live/tooltip.css" rel="stylesheet" />
+  <link rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css">
+
+  <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+
+  <script src="~/Scripts/jquery-1.10.2.min.js"></script>
+  <script src="~/Scripts/jquery.signalR-2.2.3.js"></script>
+  <script src="~/signalr/hubs"></script>
+  <script src="~/Scripts/Live/live.js"></script>
+
+</head>
+<body>
+  <div class="container" id="app">
+    <div class="deamon_stop" v-show="!deamon">
+      Deamon is not live!
+    </div>
+    <div class="mainInfo box">
+      <div class="main-item">
+        <label>ServerStarted</label>
+        <span>{{mainInfo.ServerCreatedTime}}</span>
+      </div>
+      <div class="main-item" style="grid-column-start:-5">
+        <label>TrackedInfo</label>
+        <div>
+          <span class="main-info-conversions tooltip">{{mainInfo.TrackedConvertions}} <span class="tooltiptext">Convertions</span> 
+          </span><span class="main-info-divider">/</span><span class="main-info-payout tooltip">{{mainInfo.TrackedPayout}} <span class="tooltiptext">Payout</span></span>
+        </div>
+      </div>
+      <div class="main-item">
+        <label>UntrackedInfo</label>
+        <div>
+          <span class="main-info-conversions tooltip">{{mainInfo.UntrackedConversions}} <span class="tooltiptext">Conversions</span>
+          </span><span class="main-info-divider">/</span><span class="main-info-payout tooltip">{{mainInfo.UntrackedPayout}} <span class="tooltiptext">Payout</span></span>
+        </div>
+      </div>
+      <div class="main-item">
+        <label>TodayStats</label>
+        <div>
+          <span class="main-info-conversions tooltip">{{mainInfo.Conversions}} <span class="tooltiptext">Conversions</span></span>
+          <span class="main-info-divider">/</span>
+          <span class="main-info-payout tooltip" style="padding-left:0">{{mainInfo.Clicks}}<span class="tooltiptext">Payout</span></span>
+          <span class="main-info-cr tooltip">({{cr}}%) <span class="tooltiptext">CR</span></span>
+        </div>
+      </div>
+      <div class="main-item">
+        <label>TodayBudget</label>
+        <div>
+          <span class="main-info-revenue tooltip">{{mainInfo.TodayRavenue}}$ <span class="tooltiptext">Revenue</span></span>(
+          <span class="main-info-payout tooltip">{{mainInfo.TodayPayout}}$ <span class="tooltiptext">Payout</span></span>
+          <span>/</span>
+          <span class="main-info-cost tooltip">{{mainInfo.TodayCosts}}$ <span class="tooltiptext">Costs</span></span>)
+          <span class="main-info-budget tooltip">{{mainInfo.TodayMaximumBudget}}$ <span class="tooltiptext">TodayBudget</span></span>
+          <span class="tooltip">({{mainInfo.ROI}}%) <span class="tooltiptext">ROI</span></span>
+        </div>
+      </div>
+    </div>
+    <div class="debug box">
+      <div class="debug-item" v-for="d of debug">
+        <div>
+          <span>{{d.CreatedTime}}</span>
+        </div>
+        <div>
+          <span>{{d.Level}}</span>
+        </div>
+        <div>
+          <span>{{d.Text}}</span>
+        </div>
+      </div>
+    </div>
+    <div class="liveTable box">
+      <div class="live-item">
+        <div class="tooltip">C <span class="tooltiptext">Country</span></div>
+        <div class="tooltip">Cnvr <span class="tooltiptext">Conversions</span> </div>
+        <div class="tooltip">OMC <span class="tooltiptext">OneMinuteConversions</span></div>
+        <div class="tooltip">OMAP <span class="tooltiptext">OneMinuteAvaragePayout</span></div>
+        <div class="tooltip">TMC <span class="tooltiptext">TwoMinuteConversions</span></div>
+        <div class="tooltip">TMAP <span class="tooltiptext">TwoMinuteAvaragePayout</span></div>
+        <div>Vertical</div>
+        <div class="tooltip">MO <span class="tooltiptext">MobileOperator</span></div>
+        <div class="tooltip">OS <span class="tooltiptext">OperatingSystem</span></div>
+        <div class="tooltip">TC <span class="tooltiptext">TotalConversions</span></div>
+        <div class="tooltip">TP <span class="tooltiptext">TotalPayout</span></div>
+        <div class="tooltip">LC <span class="tooltiptext">LastConversion</span></div>
+      </div>
+      <div>
+        <div class="live-item-row" v-for="l of liveFeeds" :class="l.className">
+          <div>{{l.Country}}</div>
+          <div>{{l.Conversions}}</div>
+          <div>{{l.OneMinuteConversions}}</div>
+          <div style="font-family:monospace;">{{l.OneMinuteAvaragePayout}}</div>
+          <div>{{l.TwoMinuteConversions}}</div>
+          <div style="font-family:monospace;">{{l.TwoMinuteAvaragePayout}}</div>
+          <div>{{l.Vertical}}</div>
+          <div>{{l.MobileOperator}}</div>
+          <div> <img :src="'/Content/Live/'+l.OS" alt="Alternate Text" /></div>
+          <div>{{l.TotalConversions}}</div>
+          <div>{{l.TotalPayout}}</div>
+          <div>{{l.LastConversions}}</div>
+        </div>
+      </div>
+    </div>
+    <div class="campaigns">
+      <div class="campaigns-item" v-for="c of campaigns">
+        <div class="campaign box animated fadeIn">
+          <div class="campaign-header">
+            <div class="campaign-header-first">
+              <span>{{c.LinkName}}</span>
+              <div class="offers">
+                {{c.OffersActivated}}
+              </div>
+            </div>
+            <div class="campaign-box">
+              <div>Conversions</div>
+              <span>{{c.NumberOfConversions}}</span>
+            </div>
+            <div class="campaign-box">
+              <div>Minutes</div>
+              <span>{{c.TrackingMinutes}}</span>
+            </div>
+            <div class="campaign-box tooltip">
+              <div>RecomendedBudget <span class="tooltiptext">RecomendedBudget</span></div>
+              <span>{{c.RecomendedBudget}}</span>
+            </div>
+            <div class="campaign-box tooltip">
+              <div>RecomendedClicksForConversion <span class="tooltiptext">RecomendedClicksForConversion</span></div>
+              <span>{{c.RecomendedClicksForConversion}}</span>
+            </div>
+            <div class="campaign-box tooltip">
+              <div>LinkAvaragePayout <span class="tooltiptext">LinkAvaragePayout</span></div>
+              <span>{{c.LinkAvaragePayout}}</span>
+            </div>
+          </div>
+        </div>
+        <div class="campaign-networks">
+          <div class="network-wrapper" v-for="n of c.Networks">
+            <div class="campaign-network box animated fadeIn" :class="{'network-paused' : n.Data.IsPaused, 'network-stoped' : n.Data.IsStoped}" v-on:click="n.ShowLogs = !n.ShowLogs">
+              <div class="campaign-network-name">{{n.NetworkName}}</div>
+              <div class="campaign-network-info">
+                <div class="campaign-network-box">
+                  <div>Started</div>
+                  <span>{{n.Data.Network.StartedTime}}</span>
+                </div>
+                <div class="campaign-network-box-sd">
+                  <div class="static">
+                    <div class="campaign-network-box static-box">
+                      <div>Budget</div>
+                      <span>{{n.Data.Network.Budget}}</span>
+                    </div>
+                    <div class="campaign-network-box tooltip static-box">
+                      <div>TD <span class="tooltiptext">ToleratedDeficit</span></div>
+                      <span>{{n.Data.Network.ToleratedDeficit}}</span>
+                    </div>
+                    <div class="campaign-network-box tooltip static-box">
+                      <div>CFC <span class="tooltiptext">ClicksForConversion</span></div>
+                      <span>{{n.Data.Network.ClicksForConversion}}</span>
+                    </div>
+                  </div>
+                  <div class="dynamic">
+                    <div class="campaign-network-box dynamic-box">
+                      <div>Conversions</div>
+                      <span>{{n.Data.Network.Conversions}}</span>
+                    </div>
+                    <div class="campaign-network-box dynamic-box">
+                      <div>Clicks</div>
+                      <span>{{n.Data.Network.Clicks}}</span>
+                    </div>
+                    <div class="campaign-network-box dynamic-box">
+                      <div>Payout</div>
+                      <span>{{n.Data.Network.Payout}}</span>
+                    </div>
+                    <div class="campaign-network-box dynamic-box">
+                      <div>Cost</div>
+                      <span>{{n.Data.Network.Cost}}</span>
+                    </div>
+                    <div class="campaign-network-box dynamic-box">
+                      <div>Revenue</div>
+                      <span>{{n.Data.Network.Revenue}}</span>
+                    </div>
+                    <div class="campaign-network-box dynamic-box">
+                      <div>LastBid</div>
+                      <span>{{n.Data.Network.LastBid}}</span>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="campaign-network-box">
+                  <div>Ended</div>
+                  <span>{{n.Data.Network.EndedTime}}</span>
+                </div>
+              </div>
+
+            </div>
+            <div class="campaign-network-log box" v-show="n.ShowLogs">
+              <div class="log-item" v-for="l of n.Data.Logs">
+                <div class="log-time">{{l.CreatedTime}}</div>
+                <div class="log-text">{{l.Text}}</div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+  </div>
+  <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+  <script>
+
+    const MAIN_INFO = @Html.Raw(Json.Encode(PushyPortalApplication.MainInformationsWebModel));
+
+    @{ var deamon = @PushyPortalApplication.IsDeamonLive == true ? "true" : "false"; }
+    const DEAMON = @deamon;
+
+    var liveManager = null;
+    $(document).ready(function () {
+      $.connection.hub.start().done(function () { console.info('SignalR connected'); });
+      $.connection.mainHub.client.update = function (data) {
+        var method = typeof data.method !== 'undefined' ? data.method : '';
+        if (liveManager.hasOwnProperty(method))
+          liveManager[method](data.data);
+      }
+      //liveManager = new LiveManager();
+      //liveManager.init();
+      //liveManager.onTest();
+      //liveManager.onLiveFeedData = (data) => {
+      //  console.log(data);
+      //};
+    });
+  </script>
+  <script src="~/Scripts/Live/app.js"></script>
+</body>
+</html>

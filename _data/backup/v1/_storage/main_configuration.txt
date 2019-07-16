@@ -1,0 +1,24 @@
+
+#------------------------------------------------------
+# Link starting campaign configuration
+
+  DontStartNewCampaigns= false
+  MaximumNumberOfActiveCampaigns= 5
+  MaximumNumberOfCampaigns= 25
+  IgnoreCountries=
+
+#------------------------------------------------------
+# Interesting offers configuration
+
+  InterestingOffersMinutes=1
+  InterestingOffersConversions=10
+
+#------------------------------------------------------
+# PushyNetworkCampaign clicks management
+
+  MaximumClicksForConversions=800
+  MinimumClicksForConversions=200
+  MaximumBudget = 5.1
+
+
+

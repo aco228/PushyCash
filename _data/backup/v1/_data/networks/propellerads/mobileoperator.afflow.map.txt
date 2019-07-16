@@ -1,0 +1,448 @@
+GR#AIRTEL VODAFONE#vodafone_uk-gb
+US#LYCAMOBILE#t-mobile-us
+SI#A1#a1-si
+AT#A1.NET#a1.net-at
+GM#AFRICEL#africel-gm
+SL#AFRICELL#africell-sl
+UG#AFRICELL#africell-ug
+CG#AIRTEL#airtel-cg
+GA#AIRTEL#airtel-ga
+IN#AIRTEL#airtel-in
+KE#AIRTEL#airtel-ke
+LK#AIRTEL#airtel-lk
+MG#AIRTEL#airtel-mg
+MW#AIRTEL#airtel-mw
+NG#AIRTEL#airtel-ng
+RW#AIRTEL#airtel-rw
+TZ#AIRTEL#airtel-tz
+UG#AIRTEL#airtel-ug
+ZM#AIRTEL#airtel-zm
+GH#AIRTELTIGO#airteltigo-gh
+TH#AIS#ais-th
+SA#AL JAWAL STC#al_jawal_stc-sa
+LB#ALFA#alfa-lb
+KZ#ALTEL#altel-kz
+DO#ALTICE#altice-do
+UY#ANTEL#antel-uy
+IQ#ASIA CELL#asia_cell-iq
+MX#ATT#att-mx
+US#ATT#att-us
+JP#AU#au-jp
+CO#AVANTEL#avantel-co
+AF#AWCC#awcc-af
+AZ#AZERCELL#azercell-az
+AZ#BAKCELL#bakcell-az
+BD#BANGALINK#bangalink-bd
+AM#BEELINE#beeline-am
+GE#BEELINE#beeline-ge
+KG#BEELINE#beeline-kg
+KZ#BEELINE#beeline-kz
+LA#BEELINE#beeline-la
+RU#BEELINE#beeline-ru
+UZ#BEELINE#beeline-uz
+CA#BELL#bell-ca
+BA#BH MOBILE#bh_mobile-ba
+LT#BITE#bite-lt
+PE#BITEL#bitel-pe
+TT#BMOBILE#bmobile-tt
+FR#BOUYGUES#bouygues-fr
+SB#BREEZE#breeze-sb
+BS#BTC#btc-bs
+BW#BTC MOBILE#btc_mobile-bw
+US#C SPIRE WIRELESS#c_spire_wireless-us
+PA#CABLE WIRELESS#cable_wireless-pa
+MY#CELCOM#celcom-my
+ZA#CELL C#cell_c-za
+KH#CELLCARD#cellcard-kh
+GN#CELLCOM#cellcom-gn
+IN#CELLONE#cellone-in
+US#CELLULAR ONE#cellular_one-us
+CN#CHINA MOBILE#china_mobile-cn
+TW#CHUNGWA#chungwa-tw
+AR#CLARO#claro-ar
+BR#CLARO#claro-br
+CL#CLARO#claro-cl
+CO#CLARO#claro-co
+CR#CLARO#claro-cr
+DO#CLARO#claro-do
+EC#CLARO#claro-ec
+GT#CLARO#claro-gt
+HN#CLARO#claro-hn
+NI#CLARO#claro-ni
+PA#CLARO#claro-pa
+PE#CLARO#claro-pe
+SV#CLARO#claro-sv
+UY#CLARO#claro-uy
+PR#CLARO PUERTO RICO#claro_puerto_rico-pr
+PY#CLARO/HUTCHISON#claro/hutchison-py
+HK#CMCC HK#cmcc_hk-hk
+EC#CNT MOBILE#cnt_mobile-ec
+GR#COSMOTE#cosmote-gr
+MO#CTM#ctm-mo
+CV#CVMOVEL#cvmovel-cv
+MV#DHIRAAGU#dhiraagu-mv
+LK#DIALOG#dialog-lk
+MY#DIGI#digi-my
+MY#DIGI#digi_telecommunications_sdn_bhd._digi_internet_exchange-my
+RO#DIGI.MOBIL#digi.mobil-ro
+AG#DIGICEL#digicel-ag
+BB#DIGICEL#digicel-bb
+FJ#DIGICEL#digicel-fj
+GY#DIGICEL#digicel-gy
+JM#DIGICEL#digicel-jm
+KY#DIGICEL#digicel-ky
+LC#DIGICEL#digicel-lc
+PA#DIGICEL#digicel-pa
+PG#DIGICEL#digicel-pg
+SR#DIGICEL#digicel-sr
+SV#DIGICEL#digicel-sv
+TT#DIGICEL#digicel-tt
+WS#DIGICEL#digicel-ws
+BZ#DIGICELL#digicell-bz
+VE#DIGITEL#digitel-ve
+CO#DIRECTV COLOMBIA LTDA#directv_colombia_ltda-co
+DZ#DJEZZY#djezzy-dz
+FI#DNA#dna-fi
+TH#DTAC#dtac-th
+AE#DU#du-ae
+AL#EAGLE MOBILE#eagle_mobile-al
+ZW#ECONET#econet-zw
+IE#EIR#eir-ie
+EE#ELISA#elisa-ee
+FI#ELISA#elisa-fi
+FI#ELISA#elisa-saunalahti-fi
+MU#EMTEL#emtel-mu
+BO#ENTEL#entel-bo
+CL#ENTEL#entel-cl
+PE#ENTEL#entel-pe
+AE#ETISALAT#etisalat-ae
+AF#ETISALAT#etisalat-af
+EG#ETISALAT#etisalat-eg
+LK#ETISALAT#etisalat-lk
+ES#EUSKALTEL#euskaltel-es
+TW#FAREASTONE#fareastone-tw
+AG#FLOW#flow-ag
+BB#FLOW#flow-bb
+RE#FREE#free-re
+FR#FREE MOBILE#free_mobile-fr
+CA#FREEDOM MOBILE#freedom_mobile-ca
+US#GCI#gci-us
+GE#GEOCELL#geocell-ge
+NG#GLO#glo-ng
+GH#GLOBACOM#globacom-gh
+PH#GLOBE#globe-ph
+SO#GOLIS#golis-so
+BD#GRAMEENPHONE#grameenphone-bd
+SO#HORMUUD#hormuud-so
+LK#HUTCH#hutch-lk
+US#I WIRELESS#i_wireless-us
+MA#IAM#iam-ma
+IN#IDEA#idea-in
+ID#INDOSAT OOREDOO#indosat_ooredoo-id
+MA#INWI#inwi-ma
+IR#IR-MCI HAMRAH-E-AVVAL#ir-mci_hamrah-e-avval-ir
+PH#ISLACOM#islacom-ph
+PK#JAZZ#jazz-pk
+IN#JIO#jio-in
+KW#K S C OOREDOO#k_s_c_ooredoo-kw
+KZ#KCELL#kcell-kz
+CR#KOLBI ICE#kolbi_ice-cr
+CI#KOZ#koz-ci
+NL#KPN#kpn-nl
+UA#KYIVSTAR#kyivstar-ua
+BY#LIFE#life-by
+UA#LIFECELL#lifecell-ua
+LV#LMT#lmt-lv
+GB#LYCAMOBILE#lycamobile-gb
+BG#M-TEL#m-tel-bg
+BA#M:TEL#m:tel-ba
+ME#M:TEL CG#m:tel_cg-me
+SG#M1#m1-sg
+GE#MAGTICOM#magticom-ge
+BW#MASCOM#mascom-bw
+MY#MAXIS#maxis-my
+MZ#MCEL#mcel-mz
+KG#MEGACOM#megacom-kg
+RU#MEGAFON#megafon-ru
+MT#MELITA#melita-mt
+PT#MEO#meo-pt
+MN#MOBICOM#mobicom-mn
+VN#MOBIFONE#mobifone-vn
+ES#MOBIL R#mobil_r-es
+DZ#MOBILIS#mobilis-dz
+SA#MOBILY#mobily-sa
+LK#MOBITEL#mobitel-lk
+SI#MOBITEL#mobitel-si
+MD#MOLDCELL#moldcell-md
+CI#MOOV#moov-ci
+NE#MOOV#moov-ne
+TG#MOOV#moov-tg
+RU#MOTIV#motiv-ru
+AO#MOVICEL#movicel-ao
+VE#MOVILNET#movilnet-ve
+AR#MOVISTAR#movistar-ar
+CL#MOVISTAR#movistar-cl
+CO#MOVISTAR#movistar-co
+CR#MOVISTAR#movistar-cr
+EC#MOVISTAR#movistar-ec
+ES#MOVISTAR#movistar-es
+GT#MOVISTAR#movistar-gt
+MX#MOVISTAR#movistar-mx
+NI#MOVISTAR#movistar-ni
+PA#MOVISTAR#movistar-pa
+PE#MOVISTAR#movistar-pe
+UY#MOVISTAR#movistar-uy
+VE#MOVISTAR#movistar-ve
+MZ#MOVITEL#movitel-mz
+MM#MPT#mpt-mm
+RS#MT:S#mt:s-rs
+NA#MTC#mtc-na
+AF#MTN#mtn-af
+CI#MTN#mtn-ci
+CY#MTN#mtn-cy
+ET#MTN#mtn-et
+GH#MTN#mtn-gh
+GN#MTN#mtn-gn
+NG#MTN#mtn-ng
+RW#MTN#mtn-rw
+SD#MTN#mtn-sd
+SS#MTN#mtn-ss
+SY#MTN#mtn-sy
+UG#MTN#mtn-ug
+ZA#MTN#mtn-za
+ZM#MTN#mtn-zm
+CM#MTN CAMEROON#mtn_cameroon-cm
+IR#MTN IRANCELL#mtn_irancell-ir
+BY#MTS#mts-by
+RU#MTS#mts-ru
+NP#NAMASTE / NT MOBILE / SKY PHONE#namaste_/_nt_mobile_/_sky_phone-np
+AZ#NAR MOBILE#nar_mobile-az
+NP#NCELL#ncell-np
+BR#NEXTEL#nextel-br
+PT#NOS#nos-pt
+IS#NOVA#nova-is
+FR#NRJ MOBILE#nrj_mobile-fr
+JP#NTT DOCOMO#ntt_docomo-jp
+KG#O!#o!-kg
+CZ#O2#o2-cz
+DE#O2#o2-de
+SK#O2#o2-sk
+GB#O2 UK#o2_uk-gb
+BR#OI#oi-br
+OM#OMANTEL#omantel-om
+DZ#OOREDOO#ooredoo-dz
+MM#OOREDOO#ooredoo-mm
+MV#OOREDOO#ooredoo-mv
+OM#OOREDOO#ooredoo-om
+QA#OOREDOO#ooredoo-qa
+TN#OOREDOO TN#ooredoo_tn-tn
+PR#OPEN MOBILE#open_mobile-pr
+AU#OPTUS#optus-au
+BE#ORANGE#orange-be
+BF#ORANGE#orange-bf
+BW#ORANGE#orange-bw
+CI#ORANGE#orange-ci
+CM#ORANGE#orange-cm
+EG#ORANGE#orange-eg
+ES#ORANGE#orange-es
+FR#ORANGE#orange-fr
+GN#ORANGE#orange-gn
+JO#ORANGE#orange-jo
+MD#ORANGE#orange-md
+MG#ORANGE#orange-mg
+PL#ORANGE#orange-pl
+RO#ORANGE#orange-ro
+SK#ORANGE#orange-sk
+SN#ORANGE#orange-sn
+TN#ORANGE#orange-tn
+GQ#ORANGE GQ#orange_gq-gq
+MA#ORANGE MOROCCO#orange_morocco-ma
+GB#ORANGE UK#orange_uk-gb
+AR#PERSONAL#personal-ar
+PY#PERSONAL#personal-py
+PL#PLAY#play-pl
+PL#PLUS#plus-pl
+IT#POSTE MOBILE#poste_mobile-it
+BE#PROXIMUS#proximus-be
+GM#QCELL#qcell-gm
+IN#RELIANCE#reliance-in
+IR#RIGHTEL#rightel-ir
+BD#ROBI#robi-bd
+CA#ROGERS WIRELESS#rogers_wireless-ca
+AF#ROSHAN#roshan-af
+KE#SAFARICOM#safaricom-ke
+CH#SALT#salt-ch
+KH#SEATEL#seatel-kh
+FR#SFR#sfr-fr
+SG#SINGTEL#singtel-sg
+KR#KT#sktelecom-kr
+BZ#SMART#smart-bz
+KH#SMART#smart-kh
+PH#SMART#smart-ph
+HK#SMARTONE#smartone-hk
+JP#SOFTBANK#softbank-jp
+SO#SOMTEL#somtel-so
+FI#SONERA#sonera-fi
+NZ#SPARK#spark-nz
+NG#SPECTRANET#spectranet-ng
+US#SPRINT#sprint-us
+SG#STARHUB#starhub-sg
+BB#SUNBEACH COMMUNICATIONS#sunbeach_communications-bb
+CH#SUNRISE#sunrise-ch
+SZ#SWAZI MTN#swazi_mtn-sz
+CH#SWISSCOM#swisscom-ch
+SY#SYRIATEL#syriatel-sy
+CV#T +#t_+-cv
+TW#T STAR#t_star-tw
+CZ#T-MOBILE#t-mobile-cz
+HU#T-MOBILE#t-mobile-hu
+ME#T-MOBILE#t-mobile-me
+NL#T-MOBILE#t-mobile-nl
+PL#T-MOBILE#t-mobile-pl
+US#T-MOBILE#t-mobile-us
+AT#T-MOBILE AT#t-mobile_at-at
+GB#T-MOBILE UK#t-mobile_uk-gb
+TW#TAIWAN MOBILE#taiwan_mobile-tw
+LU#TANGO#tango-lu
+BT#TASHICELL#tashicell-bt
+IN#TATA DOCOMO#tata_docomo-in
+DK#TDC#tdc-dk
+MX#TELCEL#telcel-mx
+EE#TELE 2#tele_2-ee
+LT#TELE 2#tele_2-lt
+HR#TELE2#tele2-hr
+LV#TELE2#tele2-lv
+NL#TELE2#tele2-nl
+RU#TELE2#tele2-ru
+SE#TELE2#tele2-se
+KZ#TELE2.KZ#tele2.kz-kz
+ZW#TELECEL#telecel-zw
+BF#TELECEL FASO#telecel_faso-bf
+DE#TELEKOM#telekom-de
+RO#TELEKOM#telekom-ro
+SK#TELEKOM#telekom-sk
+AL#TELEKOM.AL#telekom.al-al
+MK#TELEKOM.MK#telekom.mk-mk
+BG#TELENOR#telenor-bg
+DK#TELENOR#telenor-dk
+ME#TELENOR#telenor-me
+MM#TELENOR#telenor-mm
+NO#TELENOR#telenor-no
+PK#TELENOR#telenor-pk
+RS#TELENOR#telenor-rs
+SE#TELENOR#telenor-se
+HU#TELENOR HUNGARY#telenor_hungary-hu
+SO#TELESOM#telesom-so
+BD#TELETALK#teletalk-bd
+DK#TELIA#telia-dk
+EE#TELIA#telia-ee
+LT#TELIA#telia-lt
+NO#TELIA#telia-no
+SE#TELIA#telia-se
+KE#TELKOM#telkom-ke
+ZA#TELKOM#telkom-za
+ID#TELKOMSEL#telkomsel-id
+BF#TELMOB#telmob-bf
+AU#TELSTRA#telstra-au
+CA#TELUS#telus-ca
+BO#TIGO#tigo-bo
+CO#TIGO#tigo-co
+GT#TIGO#tigo-gt
+HN#TIGO#tigo-hn
+PY#TIGO#tigo-py
+RW#TIGO#tigo-rw
+SN#TIGO#tigo-sn
+SV#TIGO#tigo-sv
+TZ#TIGO#tigo-tz
+BR#TIM#tim-br
+IT#TIM#tim-it
+MY#TM HOMELINE#tm_homeline-my
+TM#TM-CELL#tm-cell-tm
+TH#TOT 3G#tot_3g-th
+LB#TOUCH#touch-lb
+TH#TRUEMOVE#truemove_h-th
+TN#TUNICELL#tunicell-tn
+TR#TURK TELEKOM#turk_telekom-tr
+TR#TURKCELL#turkcell-tr
+MY#U MOBILE#u_mobile-my
+US#U.S. CELLULAR#u.s._cellular-us
+UZ#UCELL#ucell-uz
+AM#UCOM#ucom-am
+PK#UFONE#ufone-pk
+JO#UMNIAH#umniah-jo
+UZ#UMS#ums-uz
+IN#UNINOR#uninor-in
+AO#UNITEL#unitel-ao
+LA#UNITEL#unitel-la
+AT#UPC#upc-at
+GB#VECTONE MOBILE#vectone_mobile-gb
+BY#VELCOM#velcom-by
+US#VERIZON#verizon-us
+CA#VIDEOTRON#videotron-ca
+VN#VIETNAMOBILE#vietnamobile-vn
+VN#VIETTEL MOBILE#viettel_mobile-vn
+PF#VINI#vini-pf
+HR#VIP#vip-hr
+MK#VIP#vip-mk
+RS#VIP#vip-rs
+GB#VIRGIN MOBILE#virgin_mobile-gb
+BO#VIVA#viva-bo
+KW#VIVA#viva-kw
+BH#VIVA BAHRAIN#viva_bahrain-bh
+AM#VIVACELL-MTS#vivacell-mts-am
+BG#VIVACOM#vivacom-bg
+BR#VIVO#vivo-br
+LS#VODACOM#vodacom-ls
+MZ#VODACOM#vodacom-mz
+TZ#VODACOM#vodacom-tz
+ZA#VODACOM#vodacom-za
+AL#VODAFONE#vodafone-al
+AU#VODAFONE#vodafone-au
+CZ#VODAFONE#vodafone-cz
+DE#VODAFONE#vodafone-de
+EG#VODAFONE#vodafone-eg
+ES#VODAFONE#vodafone-es
+FJ#VODAFONE#vodafone-fj
+GH#VODAFONE#vodafone-gh
+GR#VODAFONE#vodafone-gr
+HU#VODAFONE#vodafone-hu
+IE#VODAFONE#vodafone-ie
+IT#VODAFONE#vodafone-it
+MT#VODAFONE#vodafone-mt
+NL#VODAFONE#vodafone-nl
+NZ#VODAFONE#vodafone-nz
+PT#VODAFONE#vodafone-pt
+QA#VODAFONE#vodafone-qa
+RO#VODAFONE#vodafone-ro
+TR#VODAFONE#vodafone-tr
+UA#VODAFONE#vodafone-ua
+GR#VODAFONE#vodafone_greece-gr
+IN#VODAFONE INDIA#vodafone_india-in
+GB#VODAFONE UK#vodafone_uk-gb
+PS#WATANIYA#wataniya-ps
+GR#WIND#wind-gr
+IT#WIND#wind-it
+CL#WOM#wom-cl
+ID#XL#xl-id
+YE#YEMEN MOBILE#yemen_mobile-ye
+ES#YOIGO#yoigo-es
+IQ#ZAIN#zain-iq
+SS#ZAIN#zain-ss
+BH#ZAIN BH#zain_bh-bh
+JO#ZAIN JO#zain_jo-jo
+KW#ZAIN KW#zain_kw-kw
+SA#ZAIN SA#zain_sa-sa
+SD#ZAIN SD#zain_sd-sd
+ZM#ZAMTEL#zamtel-zm
+PK#ZONG#zong-pk
+SE#3#3-se
+DK#3#3-dk
+NG#9MOBILE#9mobile-ng
+IE#3#3-ie
+NZ#2DEGREES#2degrees-nz
+UA#3MOB#3mob-ua
+AT#3#3-at
+IT#3 ITALIA#3_italia-it
+ID#3#3-id
+GB#3#3-gb
+HK#3#3-hk

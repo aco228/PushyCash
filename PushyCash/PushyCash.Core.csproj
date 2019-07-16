@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{647878CD-E696-4FF4-9DBC-A67E98D9750E}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>PushyCash</RootNamespace>
+    <AssemblyName>PushyCash</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Newtonsoft.Json, Version=11.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.11.0.2\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Campaigns\Models\CampaignInfoStat.cs" />
+    <Compile Include="Campaigns\NetworkCampaignMetrics.cs" />
+    <Compile Include="Campaigns\PushyCampaign.cs" />
+    <Compile Include="Campaigns\PushyCampaignManager.cs" />
+    <Compile Include="Campaigns\PushyNetworkCampaign.cs" />
+    <Compile Include="Campaigns\PushyNetworkCampaignWebModelStatusChanger.cs" />
+    <Compile Include="ExternalStorage\PushyExternalStorage.cs" />
+    <Compile Include="InitialConfigurations\PushyTrackingOptions.cs" />
+    <Compile Include="Links\Link.cs" />
+    <Compile Include="Links\LinkConversion.cs" />
+    <Compile Include="Links\LinkDisplay.cs" />
+    <Compile Include="Links\LinkDisplayOld.cs" />
+    <Compile Include="Links\LinkManager.cs" />
+    <Compile Include="Links\LinkOffersConversion.cs" />
+    <Compile Include="Links\LinkOffersConversionResult.cs" />
+    <Compile Include="PushyConsole\PConsole.cs" />
+    <Compile Include="PushyConsole\PConsoleHeaderControl.cs" />
+    <Compile Include="PushyConsole\PConsoleControlBase.cs" />
+    <Compile Include="PushyConsole\PConsoleLogControl.cs" />
+    <Compile Include="PushyConsole\PConsoleTableControl.cs" />
+    <Compile Include="PushyContext.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="PushyGlobal.cs" />
+    <Compile Include="InitialConfigurations\PushyInitialConfiguration.cs" />
+    <Compile Include="PushyLogger\PLogger.DerivatedFunctions.cs" />
+    <Compile Include="PushyLogger\PushyLog.cs" />
+    <Compile Include="PushyLogger\PLogger.Base.cs" />
+    <Compile Include="Snapshots\SnapshotConversion.cs" />
+    <Compile Include="Snapshots\SnapshotManager.cs" />
+    <Compile Include="Snapshots\SnapshotOffer.cs" />
+    <Compile Include="TrafficNetworks\TrafficNetworkManager.cs" />
+    <Compile Include="Workers\ActiveCampaignsWorker.cs" />
+    <Compile Include="Workers\AfflowConversionsFeedWorker.cs" />
+    <Compile Include="Workers\ConsoleDisplayDataWorker.cs" />
+    <Compile Include="Workers\GarbageCollectorLinkWorker.cs" />
+    <Compile Include="Workers\AfflowLiveFeedWorker.cs" />
+    <Compile Include="Workers\AfflowLoginWorker.cs" />
+    <Compile Include="Workers\GarbageCollectorSnapshotOfferWorker.cs" />
+    <Compile Include="Workers\AfflowSnapshotUpdateWorker.cs" />
+    <Compile Include="Workers\SingleThreadWorkers\GetCostsAndPayouts.cs" />
+    <Compile Include="Workers\SingleThreadWorkers\LogDeletion.cs" />
+    <Compile Include="Workers\SingleThreadWorkers\SlackReporter.cs" />
+    <Compile Include="Workers\SingleThreadWorkers\_base.SingleThreadOperationBase.cs" />
+    <Compile Include="Workers\SingleThreadWorkers\_base.SingleThreadWorker.cs" />
+    <Compile Include="Workers\TrafficSourceUpdateStatsWorker.cs" />
+    <Compile Include="Workers\_base.WorkerBase.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\Direct\Direct.Core\Direct.Core.csproj">
+      <Project>{79bf132c-fe95-4096-8bed-7e981c50e71c}</Project>
+      <Name>Direct.Core</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PushyCash.Afflow\PushyCash.Afflow.csproj">
+      <Project>{1c9a1ed2-a558-4fa0-a1b4-059ba2a6e9fe}</Project>
+      <Name>PushyCash.Afflow</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PushyCash.Direct\PushyCash.Direct.csproj">
+      <Project>{6cd0bc53-5e06-4dc0-a1f4-421cebdaa78c}</Project>
+      <Name>PushyCash.Direct</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PushyCash.Slack\PushyCash.Slack.csproj">
+      <Project>{2b5660c3-0f9f-46c6-9cef-1fcdd6c60a34}</Project>
+      <Name>PushyCash.Slack</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PushyCash.Socket.Core\PushyCash.Sockets.Core.csproj">
+      <Project>{707a9e88-5169-4528-a119-220acea544f4}</Project>
+      <Name>PushyCash.Sockets.Core</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PushyCash.TrafficNetwork.Zeropark\PushyCash.TrafficNetworks.Zeropark.csproj">
+      <Project>{f47167b8-979d-443a-a081-b2f9cf71b6f5}</Project>
+      <Name>PushyCash.TrafficNetworks.Zeropark</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PushyCash.TrafficNetworks.PropellerAds\PushyCash.TrafficNetworks.PropellerAds.csproj">
+      <Project>{ee7b0a7f-0f0c-42b5-99ea-d789f5f121e3}</Project>
+      <Name>PushyCash.TrafficNetworks.PropellerAds</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PushyCash.TrafficNetwork\PushyCash.TrafficNetworks.Core.csproj">
+      <Project>{7bf7160a-91f4-410c-9142-28ecd161e134}</Project>
+      <Name>PushyCash.TrafficNetworks.Core</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PushyCash.Web.Core\PushyCash.Web.Core.csproj">
+      <Project>{043f6ccd-24e6-4bea-bdcc-a3dc9d9f4ae6}</Project>
+      <Name>PushyCash.Web.Core</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
